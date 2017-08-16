@@ -15,16 +15,6 @@ include sub.mk
 
 ##################################################################
 
-## Crib
-
-%.lect: old
-	cp old/$@ .
-
-old:
-	/bin/ln -fs ~/Dropbox/current/WorkingWiki-export/1M_lectures $@
-
-##################################################################
-
 ## Formatting
 ## Script is makestuff/newtalk/lect.pl
 ## Format rules are in makestuff/newtalk/txt.format _and_
