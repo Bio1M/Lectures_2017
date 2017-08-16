@@ -1,0 +1,452 @@
+ 
+
+CHAPTER Chapter 27: Phylogeny, etc.
+
+----------------------------------------------------------------------
+
+CSLIDE Chapter 27 Outline
+
+TOC
+
+----------------------------------------------------------------------
+
+TSEC Phylogeny | (pp.~543-548; B3--B5)
+
+	Phylogeny is the evolutionary history of a group of organisms
+
+	Based on the idea that organisms are related by evolution
+
+	Understanding these relationships is critical to our understanding
+	of both evolution, and how biological processes work
+
+----------------------------------------------------------------------
+
+Phylogenetic trees
+
+	A [phylogenetic tree] is a model of how a group of organisms
+	descended from a common ancestor
+
+	The model consists of [nodes], where groups split, [branches] where
+	evolution occurs, and [tips] representing observed [taxa] which are
+	the endpoints of the process we are trying to model.
+
+	A point where more than two branches diverge is called a _polytomy_.
+
+		Polytomies mean we don't know which event happened first.
+
+	Figures BS2.1, BS2.2
+
+----------------------------------------------------------------------
+
+Monophyletic group
+
+	A [monophyletic group] is a group _defined by_ a single common
+	ancestor
+
+		All descendants of the ancestor must be in the group
+
+	Monophyletic groups can also be called [clades] or [taxa].
+
+	As biologists, we should try to think in terms of clades
+
+		Are flying vertebrates a clade?
+
+		What are some prominent groups that are not clades?
+
+			ANS apes, reptiles
+
+----------------------------------------------------------------------
+
+Reading phylogenetic trees
+
+	The tree indicates the pattern of branching of [lineages] (evolving
+	lines)
+
+	Tips are _assumed_ by the model to be monophyletic
+
+	A tree is a model of how evolution occurred
+
+		Trees that correspond to the same model are considered equivalent
+		(Figure BS2.3)
+
+	How do we judge how closely related two organisms are, according to a
+	tree?
+
+		ANS By looking for their common ancestor
+
+----------------------------------------------------------------------
+
+TSS Constructing phylogenetic trees
+
+	First, measure [characteristics] (or [characters]) of the taxa of
+	interest -- i.e., anything that seems useful to measure
+
+		Can be [morphological] (i.e., physical) or genetic
+
+	Then infer (make an educated guess about) the phylogenetic
+	relationships.
+
+		[Phenetic] approaches use measures of distance between organisms
+
+		[Cladistic] approaches are based on modeling how evolution occurs
+		on the tree
+
+----------------------------------------------------------------------
+
+Morphological vs. genetic characteristics
+
+	Should we use morphological or genetic characteristics to infer phylogenies?
+
+		We usually have more information from genetic characteristics, and
+		this information is easier to measure precisely
+
+	When should we use morphological characteristics?
+
+		ANS When genetic information is not available
+
+		COMMENT Some viruses evolve so fast that morphological
+		characteristics _may_ be more stable than genetic
+		characteristics in some cases!
+
+----------------------------------------------------------------------
+
+Phenetic vs. cladistic analysis
+
+	Cladistic analysis makes use of the phylogenetic model of organisms
+	evolving from each other to infer phylogenies
+
+	Phenetic analysis ignores the phylogenetic model of organisms
+	evolving from each other while inferring phylogenies
+
+	Which is better?
+
+		ANS Cladistic analysis
+
+	When should we use the other one?
+
+		ANS When our data are only distances, with no characters available
+		-- e.g., certain molecular techniques
+
+		COMMENT Sometimes phenetic techniques are used for
+		computational convenience -- this can be dangerous
+
+----------------------------------------------------------------------
+
+Synapomorphies
+
+	Classical cladistic analysis is based on [synapomorphies] -- shared,
+	[derived] characters -- as evidence that two taxa are related
+
+	Why do we focus on derived characters?
+
+		ANS Because derived characters correspond to changes we must
+		explain with our evolutionary model (phylogeny)
+
+		COMMENT Example: flight in oaks, birds, fish
+
+		COMMENT Example: flight in mosquitoes, birds, fish
+
+----------------------------------------------------------------------
+
+What characters are derived?
+
+	Derived compared to what?
+
+		The common ancestor (characteristics of the common ancestor are
+		called [basal] characters).  
+
+			COMMENT Example: ostriches, hawks, sparrows
+
+		A [derived] character is a character not shared by the common
+		ancestor of the group that we are currently thinking about
+
+		One way to think about cladistic vs.~phenetic analysis is that
+		phenetic analysis treats derived and basal characters equally
+
+		COMMENT You are not responsible for the (confusing) idea of basal
+		and derived _groups_.
+
+----------------------------------------------------------------------
+
+Inferring the common ancestor
+
+	We want to know what the common ancestor was like, so we can tell
+	which characters are derived (as opposed to [basal])
+
+	This can be done sometimes by common sense
+	
+	Inferring the common ancestor statistically is difficult, for
+	technical reasons
+
+		We can make use of an [outgroup] to study a
+		group.  An outgroup is an organism closely related to, but
+		outside, the group being studied.
+
+		We assume that the the [root], or beginning, of the tree is where
+		the outgroup branches from the group
+
+----------------------------------------------------------------------
+
+Confusing the phylogeny
+
+	Two species may have the same trait because the trait evolved twice
+	independently -- [convergent evolution]
+
+		Flight, trees
+
+	An organism may lack a character that its ancestors had --
+	[secondary loss]
+
+		COMMENT This can be even more confusing
+
+	Similarities that are not homologies (ie., not due to common
+	ancestry) are called [homoplasies] (Fig.~27.2).
+
+----------------------------------------------------------------------
+
+Parsimony
+
+	Classical cladistic analysis is based on searching for the tree that
+	can explain the observed data most [parsimoniously] -- with the
+	fewest number of changes necessary.
+
+	How do we address the problem of convergent evolution and homoplasy?
+
+		ANS Make use of many different characteristics, when possible
+
+		ANS It may also help to use many different taxa
+
+----------------------------------------------------------------------
+
+CSLIDE Likelihood
+
+	Parsimony is the assumption that the most parsimonious (simplest)
+	explanation is the most likely
+
+	Modern cladistic analysis may use parsimony or likelihood methods
+
+	Likelihood methods are often used for genetic data: they use models
+	to explicitly estimate which explanation is most likely
+
+	You do not need to know this
+
+----------------------------------------------------------------------
+
+TSS Example: the evolution of whales
+
+	Whales seem, on the surface, to be pretty different from other
+	mammals, including their own group, the artiodactyls
+
+	Whales lack the distinctive artiodactyl ankle structure (surprise!)
+
+	Cladistic analysis eventually showed that whales are closely related
+	to hippos (many synapomorphies)
+
+		Supported by later fossil discovery!
+
+	What about phenetic analysis?
+
+----------------------------------------------------------------------
+
+Tree-construction analysis
+
+	Hippos have derived characters A, B, C, D, Z
+
+	Cows have derived character A, Z
+
+	Whales have derived characters B, C, D, E, F, G, H, I, Z
+
+	Calculate distances, and make a phenetic tree
+
+	List synapomorphies, and make a cladistic tree
+
+----------------------------------------------------------------------
+
+Tree discussion
+
+	ANS Universal characteristics have no impact on our trees
+
+	ANS Characteristics of only one species have no impact on synapomorphy trees
+
+	Why might whales have more derived characters than the other species?
+
+		ANS Because they have had to adapt more since moving to the water
+
+----------------------------------------------------------------------
+
+Lessons
+
+	Phenetic analysis can be misleading
+
+	Any analysis can be misleading, if data are limited
+
+		(i.e., always)
+
+	Inferences about the common ancestor can be crucial
+
+		What if we thought E, F, G, H and I were all basal characters?
+
+			ANS We would conclude that cows are closely related to hippos
+
+----------------------------------------------------------------------
+
+Phylogenetic trees are approximations!
+
+	Phylogenetic trees are tremendously useful and powerful tools for
+	organizing, understanding and analyzing biological data
+
+	But they have limitations:
+
+		The true history of life cannot really be summarized by a tree
+
+			Sex, endosymbiosis
+
+		Trees constructed by humans are not necessarily even the best
+		approximations to the true history of life (and our guesses may
+		change over time)
+
+----------------------------------------------------------------------
+
+TSEC The fossil record | (pp.~548--551)
+
+	A [fossil] is a physical trace of an organism from the past
+
+		Intact fossils retain their form and substance
+
+		Compression fossils are squashed into a thin film
+
+		Cast fossils occur when the decomposing piece is replaced by
+		minerals different from the surrounding ones
+
+		Permineralized fossils occur if minerals infiltrate cells as
+		they are decomposing
+
+	COMMENT Does any of this seem likely?
+
+	Figure 27.6
+
+----------------------------------------------------------------------
+
+Biases in the fossil record
+
+	Scientists have learned a lot from studying fossils, but care is
+	needed.  Very few things fossilize, and some things are much more
+	likely to fossilize than others, for example:
+
+		Things that live in swampy areas, or underground ([Habitat bias])
+
+		Hard things, or hard parts of things ([Taxonomic bias])
+
+		Things that lived more recently have had less time to be
+		destroyed, or to be buried too deep for recovery ([Temporal bias])
+
+		Things that are more abundant have more chances to be preserved
+		([Abundance bias])
+
+----------------------------------------------------------------------
+
+Accounting for biases 
+
+	Because the fossil record is biased, scientists must be very careful
+	about making inferences from what they see
+
+		Just because you don't see it, doesn't mean that it wasn't there
+
+		Just because you see a lot, doesn't mean that there were a lot
+		(relatively speaking)
+
+	Trying to figure out what happened based on what kind of fossils we
+	happen to find is tricky
+
+----------------------------------------------------------------------
+
+SEC The timeline of life | (pp.~550-553)
+
+----------------------------------------------------------------------
+
+TSS Putting the timeline together
+
+	Dates of specimens can be inferred using radioactive isotopes (harder than it sounds)
+
+	Geologic inferences can be made about the relative age of
+	different things (for example, if one was deposited on top of
+	another).
+
+	Molecular clocks are based on inferences about how fast things are
+	evolving
+
+	These techniques are complicated, and making the timeline is a
+	difficult and exciting puzzle 
+
+		COMMENT Orchid example
+
+		NOTES 
+		\begin{verbatim}
+			http://www.bioedonline.org/news/news.cfm?art=3563
+		\end{verbatim}
+		See links from this article for more info.
+
+----------------------------------------------------------------------
+
+TSEC Using history to understand biology
+
+	Biologists combine information about:
+
+		evolutionary history
+
+		genetic composition
+
+		structure and function
+
+	as an important tool to figure out how organisms work
+
+----------------------------------------------------------------------
+
+Hox genes
+
+	[Hox genes] are involved in determining the identity of different
+	body parts
+
+	Taxa with simpler body structures tend to have fewer hox genes
+
+		Phylogenetic comparisons provide important evidence that hox
+		genes were involved in evolution of complex body plans
+
+	Evidence that new hox genes were largely created by [gene
+	duplication] events
+
+	Figure 27.10
+
+----------------------------------------------------------------------
+
+Gene duplication
+
+	One or more genes may be accidentally duplicated so that the genome
+	has two copies of each gene
+
+	This may make the organism less efficient, and thus be selected
+	against
+
+	It may also allow for innovation.  Why?
+
+		ANS Because one copy can continue to do the old function, while
+		the other evolves a new function
+
+----------------------------------------------------------------------
+
+TSS Evolutionary ecology
+
+	Studying the history of life also provides information about how
+	organisms evolve to fill (and create) ecological niches
+
+	In many different cases, a new kind of organism has colonized an
+	area, and diversified rapidly
+
+		What is the same, and what is different, between similar cases?
+
+	Anolis lizards example | (p. 559)
+
+	Figure 27.12
+
+----------------------------------------------------------------------
+
