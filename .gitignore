@@ -22,8 +22,17 @@ target.mk
 
 local.mk
 
-testdir/
-.testdir/
-subclone_dir/
+*.deps
+.deps/
 
-*.makestuff
+*.draft.*
+*.final.*
+*.handouts.*
+*.complete.*
+*.outline.*
+
+old
+talkdir
+txt.format
+
+dotdir/
