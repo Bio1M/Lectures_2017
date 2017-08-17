@@ -1,6 +1,9 @@
 !SQUARE {\bf %}
 !EM {\em %\,}
 
-CHAPTER \section*{Bio 1M Unit: }
+CHAPTER \section*{Bio 1M: %%}
 draft final: NOFRAME \title{%%}
 
+## An answer space in the notes only (answer uncertain or not specified yet in lecture)  
+NOANS ^ANS %%
+final draft %!

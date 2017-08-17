@@ -1,8 +1,5 @@
  
 
-CSLIDE Chapter 25 Outline
-
-TOC
 
 ----------------------------------------------------------------------
 
@@ -189,7 +186,7 @@ Example: calculating allele frequencies
 
 ----------------------------------------------------------------------
 
-CSLIDE What do we mean by expected?
+What do we mean by expected?
 
 	If we flip a fair coin 100 times, what is the expected number of
 	heads?
@@ -204,7 +201,7 @@ CSLIDE What do we mean by expected?
 ----------------------------------------------------------------------
 
 
-CSLIDE How do you know a coin is perfectly fair?
+How do you know a coin is perfectly fair?
 
 	You can never be sure that a coin is perfectly fair, you can only evaluate
 	your evidence that it's more or less close to fair.

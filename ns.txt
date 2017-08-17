@@ -1,5 +1,5 @@
  
-CHAPTER Chapter 24: Evolution by natural selection
+CHAPTER Evolution by natural selection
 
 ----------------------------------------------------------------------
 
@@ -424,25 +424,32 @@ Examples
 	If you exercise every day, you will be stronger, but this will not
 	make your children stronger.  
 	
-		SLIDEANS acclimation
+		ANS acclimation
 
 	After swinging through trees for millions of years, chimpanzees
 	have very strongly built arms.  
 	
-		SLIDEANS adaptation
+		ANS adaptation
 
 	Polar bears have thick fur, and thick layers of fat under their
 	skin.  
 	
-		SLIDEANS adaptation
+		ANS adaptation
 
 	Humans raised in hot climates have more sweat glands than those
 	raised in cold climates.  
 	
-		SLIDEANS acclimation
+		ANS acclimation
 
-	Acclimation itself is based on adaptation: our ability to acclimate
-	is evolved
+----------------------------------------------------------------------
+
+Acclimation
+
+	Why do we acclimate?
+
+		ANS It has probably evolved because acclimation is beneficial
+
+	Are responses to changed conditions always good?
 
 ----------------------------------------------------------------------
 
@@ -509,6 +516,3 @@ Evolution by natural selection -- Summary
 	constraints
 
 		Species are not perfectly adapted
-
-----------------------------------------------------------------------
-

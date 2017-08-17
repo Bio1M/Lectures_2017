@@ -52,14 +52,25 @@ ns.complete.pdf: ns.txt
 ns.outline.pdf: ns.txt
 
 #### Evolutionary processes (P25)
-Sources += processes.lect
+processes.draft.pdf: processes.txt
+processes.final.pdf: processes.txt
+processes.handouts.pdf: processes.txt
+processes.complete.pdf: processes.txt
+processes.outline.pdf: processes.txt
 
 #### Speciation (P26)
-Sources += speciation.lect
+speciation.draft.pdf: speciation.txt
+speciation.final.pdf: speciation.txt
+speciation.handouts.pdf: speciation.txt
+speciation.complete.pdf: speciation.txt
+speciation.outline.pdf: speciation.txt
 
 #### Phylogeny and the history of life (P27)
-Sources += phylogeny.lect
-
+phylogeny.draft.pdf: phylogeny.txt
+phylogeny.final.pdf: phylogeny.txt
+phylogeny.handouts.pdf: phylogeny.txt
+phylogeny.complete.pdf: phylogeny.txt
+phylogeny.outline.pdf: phylogeny.txt
 
 ######################################################################
 

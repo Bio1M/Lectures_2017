@@ -1,5 +1,5 @@
 
-CHAPTER Section intro
+CHAPTER Course introduction
 
 ----------------------------------------------------------------------
 
