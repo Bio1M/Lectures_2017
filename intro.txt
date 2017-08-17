@@ -140,7 +140,7 @@ SS Example: cards and drinks
 
 ----------------------------------------------------------------------
 
-Deductive thinking
+RSLIDE Deductive thinking
 
 	You go to a job interview, and are shown some playing cards.
 
@@ -154,7 +154,7 @@ Deductive thinking
 
 	Which of the four groups of cards do you need to turn over?
 
-		NOANS 
+		ANS 
 
 ----------------------------------------------------------------------
 
@@ -168,8 +168,9 @@ Deductive thinking
 	You can see other people's faces clearly, and tell whether they are
 	underage or legal-age (but not what they are drinking)
 
-	You want to test the hypothesis that everybody who is drinking
-	alcohol is of legal age
+	You want to test the hypothesis that everything is OK:
+	
+		everybody who is drinking alcohol is of legal age
 
 	Which of the four groups of people do you need to check out?
 
@@ -177,7 +178,7 @@ Deductive thinking
 
 ----------------------------------------------------------------------
 
-CSLIDE Deductive thinking
+Deductive thinking
 
 	You go to a job interview, and are shown some playing cards.
 
@@ -207,6 +208,10 @@ Thinking conceptually
 		facts, stories, mechanisms, etc.
 
 	Practice clear thinking about simple questions
+
+----------------------------------------------------------------------
+
+SS Logical inference
 
 ----------------------------------------------------------------------
 

@@ -3,11 +3,12 @@ CHAPTER Chapter 24: Evolution by natural selection
 
 ----------------------------------------------------------------------
 
-CSLIDE Chapter 24 Outline
+EXTRA
 
-TOC
+Fill in Figures (search Fig)
 
 ----------------------------------------------------------------------
+
 
 TSEC Evolution
 
@@ -284,7 +285,7 @@ Other examples
 
 ----------------------------------------------------------------------
 
-CSLIDE Activity
+Activity
 
 	How would you design an experiment to tell if moth color is
 	heritable?
@@ -364,7 +365,7 @@ Inheritance of acquired characteristics
 
 ----------------------------------------------------------------------
 
-CSLIDE Activity
+Activity
 
 	What would be the key points of a similar experiment to test whether
 	tail lengths respond to natural (actually, artificial) selection?

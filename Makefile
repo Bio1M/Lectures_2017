@@ -34,6 +34,8 @@ Sources += *.txt
 #### Combined file (maybe older, seems to have more references to (some version of) the book)
 Sources += course.lect
 
+##### 2017 units
+Sources += 2017.overview
 
 #### Introduction
 intro.draft.pdf: intro.txt
@@ -42,17 +44,26 @@ intro.handouts.pdf: intro.txt
 intro.complete.pdf: intro.txt
 intro.outline.pdf: intro.txt
 
-#### Natural selection (P24?)
-Sources += ns.lect
+#### Natural selection (P24)
+ns.draft.pdf: ns.txt
+ns.final.pdf: ns.txt
+ns.handouts.pdf: ns.txt
+ns.complete.pdf: ns.txt
+ns.outline.pdf: ns.txt
 
-#### Evolutionary processes (P25?)
+#### Evolutionary processes (P25)
 Sources += processes.lect
 
-#### Speciation (P26?)
+#### Speciation (P26)
 Sources += speciation.lect
 
-#### Phylogeny and the history of life
+#### Phylogeny and the history of life (P27)
 Sources += phylogeny.lect
+
+
+######################################################################
+
+## Not used since importation
 
 #### Behavior (P51?)
 Sources += behavior.lect
@@ -64,7 +75,6 @@ Sources += modern.lect
 
 #### Human behavior (seems to be Lovaye's part of the course)
 Sources += hb.lect
-
 
 ######################################################################
 
