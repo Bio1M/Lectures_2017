@@ -1,4 +1,12 @@
 
+EXTRA
+
+Tree of life and _scale_
+
+Re-do "experiment section": giraffes and ants
+
+----------------------------------------------------------------------
+
 CHAPTER Course introduction
 
 ----------------------------------------------------------------------
@@ -322,7 +330,7 @@ The Pasteur experiment
 
 ----------------------------------------------------------------------
 
-SEC Experimental design| (pp.~11--15)
+SEC Experimental design | (pp.~11--15)
 
 ----------------------------------------------------------------------
 
@@ -343,7 +351,10 @@ Hypotheses
 
 ----------------------------------------------------------------------
 
-Example: Why are chili peppers hot?
+Example: How do ants navigate through landscapes?
+
+	Many species of ants move efficiently through landscapes while finding food
+	and returning to their nests
 
 	Mice tend to digest seeds (destroy them in their digestive system)
 
@@ -354,7 +365,19 @@ Example: Why are chili peppers hot?
 
 ----------------------------------------------------------------------
 
-Experiment: Animals choosing seeds
+Experiment: Ants finding their nest
+
+	How do ants navigate through landscapes?
+
+	ADD Fig
+
+----------------------------------------------------------------------
+
+Interpreting the results
+
+----------------------------------------------------------------------
+
+EXTRA Experiment: Animals choosing seeds
 
 	Let mice and thrashers (seed-eating birds) choose between three
 	kinds of seeds, and see what they eat
@@ -363,7 +386,7 @@ Experiment: Animals choosing seeds
 
 ----------------------------------------------------------------------
 
-Interpreting the results
+EXTRA Interpreting the results
 
 	Why might the mice be avoiding the non-spicy chilies?
 
