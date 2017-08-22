@@ -1,8 +1,6 @@
 
 EXTRA
 
-Tree of life and _scale_
-
 Re-do "experiment section": giraffes and ants
 
 ----------------------------------------------------------------------
@@ -11,7 +9,7 @@ CHAPTER Course introduction
 
 ----------------------------------------------------------------------
 
-SEC Introduction
+SEC Introduction | Chapter 1
 
 ----------------------------------------------------------------------
 
@@ -330,7 +328,7 @@ The Pasteur experiment
 
 ----------------------------------------------------------------------
 
-SEC Experimental design | (pp.~11--15)
+SEC Experimental design | (pp.~11--13)
 
 ----------------------------------------------------------------------
 
@@ -375,40 +373,17 @@ Experiment: Ants finding their nest
 
 Interpreting the results
 
-----------------------------------------------------------------------
+	Are there other explanations?
 
-EXTRA Experiment: Animals choosing seeds
-
-	Let mice and thrashers (seed-eating birds) choose between three
-	kinds of seeds, and see what they eat
-
-	Fig.~1.12
-
-----------------------------------------------------------------------
-
-EXTRA Interpreting the results
-
-	Why might the mice be avoiding the non-spicy chilies?
-
-		ANS The red may warn them of spiciness
-
-		ANS They may dislike red for other reasons
-
-		ANS Hackberries may be their favorites
-
-	Why were the hackberries included?
-
-		ANS Don't know; the best result would have been if mice ate a lot
-		of non-spicy chilies
-
-		ANS Maybe to test the effects of other chili properties
+	Do we think that ants count the way that we do?
 
 ----------------------------------------------------------------------
 
 Example: Vitamin C 
 
-	I want to find out whether Vitamin C is good for mice, so I raise a
-	mouse on a standard diet, with Vitamin C supplement, to see whether it has a long, happy, healthy life.
+	I want to find out whether Vitamin C is good for mice, so I raise a mouse on
+	a standard diet, with Vitamin C supplement, to see whether it has a long,
+	happy, healthy life.
 
 	What is wrong with this experiment?
 
