@@ -92,6 +92,8 @@ Sources += hb.lect
 ## Images
 
 Pearson/%: Pearson
+	cd Pearson && $(MAKE) $*
+
 Pearson:
 	/bin/ln -fs ~/Dropbox/1M/Pearson
 

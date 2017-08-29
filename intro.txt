@@ -307,7 +307,7 @@ All living organisms are composed of cells
 
 BCC
 
-SIDEFIG Pearson/01_01_vanLeeuwenhoek_L.jpg
+SIDEFIG Pearson/main/01_01_vanLeeuwenhoek_L.jpg
 
 NCC
 
@@ -337,13 +337,13 @@ Where do cells come from?
 
 PSLIDE The Pasteur experiment
 
-FIG Pearson/01_02a_Pasteur_exprmnts_L.jpg
+FIG Pearson/main/01_02a_Pasteur_exprmnts_L.jpg
 
 ----------------------------------------------------------------------
 
 PSLIDE The Pasteur experiment
 
-FIG Pearson/01_02b_Pasteur_exprmnts_L.jpg
+FIG Pearson/main/01_02b_Pasteur_exprmnts_L.jpg
 
 ----------------------------------------------------------------------
 
@@ -407,7 +407,7 @@ Example: Why are giraffes so tall?
 
 BCC
 
-SIDEFIG Pearson/01_08b_giraffe_necks_U.jpg
+SIDEFIG Pearson/giraffes.jpg
 
 NCC
 
