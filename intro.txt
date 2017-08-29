@@ -349,6 +349,8 @@ FIG Pearson/01_02b_Pasteur_exprmnts_L.jpg
 
 The Pasteur experiment
 
+	NOTES Fig 1.2 
+
 	Why was it necessary to have two flasks?
 
 	What if the first flask had also failed to grow cells?
@@ -366,7 +368,7 @@ The Pasteur experiment
 
 ----------------------------------------------------------------------
 
-SEC Experimental design | (pp.~11--13)
+SEC Doing biology | (pp.~9--13)
 
 ----------------------------------------------------------------------
 
@@ -387,25 +389,50 @@ Hypotheses
 
 ----------------------------------------------------------------------
 
+TSS Observational studies
+
+	Look for ways to collect data that will support or challenge hypotheses
+
+	Scientists are cautious about making conclusions from observational studies
+
+		ANS It's hard to know if you've taken everything into account
+
+		ANS Experiments are more reliable …
+
+		ANS but you can't always do experiments
+
+----------------------------------------------------------------------
+
+Example: Why are giraffes so tall?
+
+BCC
+
+SIDEFIG Pearson/01_08b_giraffe_necks_U.jpg
+
+NCC
+
+	ANS They eat from trees, so that probably has something to do with it
+
+	ANS They use their necks for dramatic fights, so that probably has something
+	to do with it
+
+EC
+
+----------------------------------------------------------------------
+
+SS Experiments
+
+----------------------------------------------------------------------
+
+
 Example: How do ants navigate through landscapes?
 
 	Many species of ants move efficiently through landscapes while finding food
 	and returning to their nests
 
-	Mice tend to digest seeds (destroy them in their digestive system)
-
-	Birds tend to excrete viable seeds after eating fruit
-
-	Hypothesis: the spicy chemical in chili peppers deters mice, but not
-	fruit-eating birds.
-
-----------------------------------------------------------------------
-
-Experiment: Ants finding their nest
-
 	How do ants navigate through landscapes?
 
-	ADD Fig
+	NOTES Fig 1.9
 
 ----------------------------------------------------------------------
 
