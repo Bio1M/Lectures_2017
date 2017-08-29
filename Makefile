@@ -89,6 +89,16 @@ Sources += hb.lect
 
 ######################################################################
 
+## Images
+
+Pearson/%: Pearson
+Pearson:
+	/bin/ln -fs ~/Dropbox/1M/Pearson
+
+######################################################################
+
+## make postscript
+
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
 

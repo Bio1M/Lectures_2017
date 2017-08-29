@@ -45,10 +45,9 @@ Expectations of professor
 	Open to questions -- both in class (within reason) and at office
 	hours
 
-		Tue 1:30-2:30 and Fri 10:30-11:30 in the resource room (BSB-201A)
-		or by appointment
+	Available by email and on Facebook
 
-	Available by email, and on ELM forums
+		I am not your friend
 
 ----------------------------------------------------------------------
 
@@ -121,6 +120,23 @@ Evaluation
 	Conceptual questions, logical inference questions and application questions are fair game
 
 		Practice questions will be available
+
+----------------------------------------------------------------------
+
+RSLIDE Structure of presentation
+
+	Required material will be clearly outlined in the notes
+
+		ANS This is an answer: it was omitted from the notes for
+		discussion purposes, you should probably write it in
+
+		COMMENT This is a comment: I omitted from the notes because I
+		thought it wasn't necessary for you to study
+
+	Required terminology will be presented in [bold]
+
+	General ideas and approaches presented in class may also be required;
+	you should take notes on these in your own words
 
 ----------------------------------------------------------------------
 
@@ -289,15 +305,21 @@ SEC The cell theory | (pp.~2--3)
 
 All living organisms are composed of cells
 
+BCC
+
+SIDEFIG Pearson/01_01_vanLeeuwenhoek_L.jpg
+
+NCC
+
 	A [cell] is a highly organized compartment bounded by a membrane
 
 	[Genes] made of [DNA]
 
 	[Proteins] made of [amino acids]
 
-	Fig. 1.1
-
 	What about viruses?
+
+EC
 
 ----------------------------------------------------------------------
 
@@ -313,9 +335,19 @@ Where do cells come from?
 
 ----------------------------------------------------------------------
 
-The Pasteur experiment
+PSLIDE The Pasteur experiment
 
-	Fig. 1.2
+FIG Pearson/01_02a_Pasteur_exprmnts_L.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE The Pasteur experiment
+
+FIG Pearson/01_02b_Pasteur_exprmnts_L.jpg
+
+----------------------------------------------------------------------
+
+The Pasteur experiment
 
 	Why was it necessary to have two flasks?
 
@@ -325,6 +357,12 @@ The Pasteur experiment
 		cells
 
 		ANS Maybe the flask was somehow poisonous or discouraging
+
+	Does this prove all cells come from cells?
+
+		ANS Maybe cells can generate spontaneously under other conditions
+
+		ANS \ldots, but that's not what's happening here
 
 ----------------------------------------------------------------------
 
