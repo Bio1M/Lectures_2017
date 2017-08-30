@@ -424,7 +424,6 @@ SS Experiments
 
 ----------------------------------------------------------------------
 
-
 Example: How do ants navigate through landscapes?
 
 	Many species of ants move efficiently through landscapes while finding food
@@ -436,11 +435,51 @@ Example: How do ants navigate through landscapes?
 
 ----------------------------------------------------------------------
 
-Interpreting the results
+PSLIDE Ant navigation
 
-	Are there other explanations?
+FIG Pearson/main/01_09_ant_foraging_L.jpg
 
-	Do we think that ants count the way that we do?
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+FIG Pearson/ants_1.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+WIDEFIG Pearson/ants_2.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+FIG Pearson/ants_3.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Ant navigation
+
+WIDEFIG Pearson/ants_4.jpg
+
+----------------------------------------------------------------------
+
+Interpretation
+
+	What would you think if the modified ants didn't navigate normally this time?
+
+		ANS That the manipulation messed them up in some way we didn't think of
+
+	Why do we test the normal ants _again_?
+
+		ANS As a check on our experimental setup
+
+	What should we conclude?
+
+		ANS Ants use information about number of steps 
+
+		ANS Do we think that ants are counting the way that we do?
 
 ----------------------------------------------------------------------
 
@@ -452,9 +491,11 @@ Example: Vitamin C
 
 	What is wrong with this experiment?
 
-		ANS No comparison.  I don't know how the mouse would have done in the absence of the supplement
+		ANS No comparison.  I don't know how the mouse would have done in the
+		absence of the supplement
 
-		ANS I only used one mouse.  I don't know if there was something unusual about it.
+		ANS I only used one mouse.  I don't know if there was something unusual
+		about it.
 
 			ANS If we compare two mice, one will always do better than the other
 
@@ -467,7 +508,8 @@ Control
 
 		flask neck, vitamin C
 
-	Groups should be as similar as possible, except for the factor that we wish to study
+	Groups should be as similar as possible, except for the factor that we wish
+	to study
 
 ----------------------------------------------------------------------
 
