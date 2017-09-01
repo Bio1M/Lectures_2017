@@ -12,6 +12,7 @@ target: $(target)
 Sources += Makefile .gitignore README.md sub.mk LICENSE.md
 include sub.mk
 -include $(ms)/newtalk.def
+-include $(ms)/repos.def
 
 ##################################################################
 
@@ -102,6 +103,7 @@ Pearson:
 ## make postscript
 
 -include $(ms)/git.mk
+-include $(ms)/modules.mk
 -include $(ms)/visual.mk
 
 -include $(ms)/newtalk.mk
