@@ -92,6 +92,8 @@ Sources += hb.lect
 
 ## Images
 
+Sources += images
+
 Pearson/%: Pearson
 	cd Pearson && $(MAKE) $*
 
