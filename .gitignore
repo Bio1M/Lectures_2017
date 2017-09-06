@@ -3,6 +3,8 @@ commit.default
 target.mk
 .*.sw*
 
+webpix
+
 *.Rout.pdf
 *.html
 
