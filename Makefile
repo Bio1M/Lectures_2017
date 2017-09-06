@@ -102,6 +102,14 @@ Pearson:
 
 ######################################################################
 
+## Pages
+
+dirs += Bio1M.github.io
+dfiles: $(dirs:%=%/Makefile)
+Sources += $(dirs)
+
+######################################################################
+
 ## make postscript
 
 -include $(ms)/git.mk
