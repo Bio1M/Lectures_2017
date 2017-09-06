@@ -273,13 +273,13 @@ Inference
 
 	Cats have four legs.  Mammals have four legs.  _Therefore_, cats are mammals
 
-		ANS: Not a valid conclusion
+		ANS Not a valid conclusion
 
 	Cows can fly.  Dushoff is a cow.  _Therefore_, Dushoff can fly.
 
-		ANS: Valid conclusion
+		ANS Valid conclusion
 
-		ANS Based on the premises
+		ANS Based on the assumptions
 
 ----------------------------------------------------------------------
 
