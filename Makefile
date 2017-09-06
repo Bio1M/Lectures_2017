@@ -12,6 +12,7 @@ target: $(target)
 Sources += Makefile .gitignore README.md sub.mk LICENSE.md
 include sub.mk
 -include $(ms)/newtalk.def
+
 -include $(ms)/repos.def
 
 ##################################################################
@@ -100,7 +101,13 @@ Sources += hb.lect
 
 ## Images
 
+## Web images
 Sources += images
+webpix/%: webpix
+	cd images && $(MAKE) files/$*
+
+webpix:
+	$(LNF) images/files $@
 
 Pearson/%: Pearson
 	cd Pearson && $(MAKE) $*
@@ -112,7 +119,8 @@ Pearson:
 
 ## Pages
 
-dirs += Bio1M.github.io
+dirs += Bio1M.github.io images
+Bio1M += images
 dfiles: $(dirs:%=%/Makefile)
 Sources += $(dirs)
 

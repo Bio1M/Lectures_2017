@@ -163,7 +163,25 @@ Deductive thinking
 
 ----------------------------------------------------------------------
 
+PSLIDE Algebra
+
+WIDEFIG webpix/quadratic.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Hockey
+
+FIG webpix/hockey.jpg
+
+----------------------------------------------------------------------
+
 SS Example: cards and drinks
+
+----------------------------------------------------------------------
+
+PSLIDE Cards
+
+FIG webpix/cards.jpg
 
 ----------------------------------------------------------------------
 
@@ -184,6 +202,13 @@ RSLIDE Deductive thinking
 		ANS 
 
 ----------------------------------------------------------------------
+
+PSLIDE Drinks
+
+FIG webpix/bar.jpg
+
+----------------------------------------------------------------------
+
 
 Deductive thinking
 
@@ -253,6 +278,12 @@ Inference
 	Cows can fly.  Dushoff is a cow.  _Therefore_, Dushoff can fly.
 
 		ANS: Valid conclusion
+
+----------------------------------------------------------------------
+
+PSLIDE Valid conclusion
+
+FIG webpix/flying_cow.jpg
 
 ----------------------------------------------------------------------
 
