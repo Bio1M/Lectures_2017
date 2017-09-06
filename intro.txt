@@ -279,6 +279,8 @@ Inference
 
 		ANS: Valid conclusion
 
+		ANS Based on the premises
+
 ----------------------------------------------------------------------
 
 PSLIDE Valid conclusion
