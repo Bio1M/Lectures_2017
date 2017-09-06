@@ -38,6 +38,10 @@ Sources += course.lect
 ##### 2017 units
 Sources += 2017.overview
 
+##
+
+# Large format is not implemented here. To do it, copy extarticle from a .tmp file in 3SS_content, and look for make rules.
+
 #### Introduction
 intro.draft.pdf: intro.txt
 intro.final.pdf: intro.txt
@@ -112,6 +116,7 @@ dirs += Bio1M.github.io
 dfiles: $(dirs:%=%/Makefile)
 Sources += $(dirs)
 
+### Would like to make my own push rules here (like 3SS), so that I can push different kinds of produts to different places. But here they seem to be over-ridden by the rules from unix.mk!
 pushdir = Bio1M.github.io/materials/
 
 ######################################################################
