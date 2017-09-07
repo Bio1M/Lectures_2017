@@ -1,8 +1,4 @@
 
-EXTRA
-
-Re-do "experiment section": giraffes and ants
-
 ----------------------------------------------------------------------
 
 CHAPTER Course introduction
