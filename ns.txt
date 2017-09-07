@@ -3,13 +3,6 @@ CHAPTER Evolution by natural selection
 
 ----------------------------------------------------------------------
 
-EXTRA
-
-Fill in Figures (search Fig)
-
-----------------------------------------------------------------------
-
-
 TSEC Evolution
 
 	The theory of [evolution] has replaced the theory of [special
@@ -31,7 +24,13 @@ TSEC Evolution
 
 ----------------------------------------------------------------------
 
-SS Change through time | (pp.~484--486)
+SS Change through time | (pp.~457--459)
+
+----------------------------------------------------------------------
+
+PSLIDE Fossils
+
+FIG Pearson/22u/22_02_fossil_record-U.jpg
 
 ----------------------------------------------------------------------
 
@@ -48,6 +47,8 @@ Fossils
 	The [fossil record] refers to the collection of all known fossils
 
 ----------------------------------------------------------------------
+
+PSLIDE Fossils
 
 Extinction
 
@@ -70,7 +71,13 @@ Transitional forms
 
 	Consistent with species evolving: changing through time
 
-	Fig 24.4
+	NOTES Fig 24.4
+
+----------------------------------------------------------------------
+
+PSLIDE
+
+ADD 24.4
 
 ----------------------------------------------------------------------
 
@@ -90,13 +97,13 @@ Directly observed evolution
 	Although much evolution occurs very slowly, some kinds of evolution
 	can be, and have been, observed on faster time scales
 
-		Peppered moths
+		Tuberculosis | (pp.465--466)
 
-		Ground finches | (pp.~493--495)
+		Ground finches | (pp.~468--470)
 
 ----------------------------------------------------------------------
 
-TSS Relationships between species | (pp.~486--489)
+TSS Relationships between species | (pp.~459--463)
 
 	If species evolved from a common ancestor, we expect to see evidence
 	that they are related to each other
@@ -160,6 +167,10 @@ Genetic homology
 		Some genes involved in development are very similar all the way
 		from insects to mammals
 
+	NOTES F24.10
+
+	ADD F24.10
+
 ----------------------------------------------------------------------
 
 Developmental homology
@@ -167,9 +178,7 @@ Developmental homology
 	[Developmental homology] is homology in the traits of [embryos]
 	(developing organisms)
 
-		Embryos of all vertebrates show striking similarities
-
-		Fig 24.8
+		Embryos of all vertebrates show striking similarities | Fig 24.8
 
 ----------------------------------------------------------------------
 
@@ -178,9 +187,7 @@ Structural homology
 	[Structural homology] is homology at the level of developed
 	organisms.
 
-		Example: animal limbs
-
-		Fig. 24.9
+		Tetrapod limbs | Fig 24.9
 
 ----------------------------------------------------------------------
 
@@ -202,13 +209,15 @@ Identifying homologies
 
 ----------------------------------------------------------------------
 
-TSEC Natural selection
+TSEC Natural selection | Sec 24.3
 
 	Darwin's big idea was not evolution, but natural selection
 
 	The first real theory of evolution was developed by Lamarck
 
 		More famous for being wrong about how evolution occurs
+
+		COMMENT He thought _acquired characteristics_ were inherited
 
 ----------------------------------------------------------------------
 
@@ -240,7 +249,7 @@ Natural selection (short version)
 
 		Heritable [variation] in traits
 
-		[Selection] (i.e., differential reproductive success) based on
+		[Selection] (i.e., differential reproductive success) _based on_
 		these traits
 
 			Survival is one component of reproductive success; if you
@@ -258,9 +267,7 @@ Fitness
 
 ----------------------------------------------------------------------
 
-Example: Peppered moths
-
-	Fig. 24.10
+Example: Tuberculosis | Fig 24.13
 
 	What if there were no variation?
 
@@ -274,36 +281,33 @@ Example: Peppered moths
 
 Other examples
 
-	Tuberculosis bacteria evolving drug resistance
-
-		Fig 24.11
-
 	Galapagos finches beak sizes evolve as availability of seed
 	resources changes.
 
-	See book!
+	NOTES Fig 24.17
 
 ----------------------------------------------------------------------
 
 Activity
 
-	How would you design an experiment to tell if moth color is
+	How would you design an experiment to tell if beak depth
 	heritable?
 
 		ANS Raise offspring from different combinations of mothers and
 		fathers, and compare their colors
 
 		ANS You might also want to try raising them in different
-		conditions (i.e., white logs, black logs, artificial cages)
+		conditions (wet or dry, more or less food available)
 
 		ANS [Replicate].  Repeat the experiment with different offspring
 		(using different mothers and fathers).
 
-		ANS [Control].  Make all factors except for the color of mothers and fathers as similar as possible
+		ANS [Control].  Make all factors except for the color of mothers and
+		fathers as similar as possible
 
 ----------------------------------------------------------------------
 
-SEC The nature of adaptation
+SEC The nature of adaptation | Sec 24.5
 
 ----------------------------------------------------------------------
 
@@ -312,7 +316,7 @@ Other models
 	Natural selection is not the only possible model for how evolution
 	could occur
 
-		Inheritance of acquired characteristics
+		Inheritance of acquired characteristics (Lamarck)
 
 		Goal-directed evolution
 
@@ -416,6 +420,12 @@ Adaptation vs.~acclimation
 
 		Adaptations are passed on to offspring, and form the basis of
 		evolutionary change
+
+----------------------------------------------------------------------
+
+PSLIDE Adaptation and acclimation
+
+ADD V6 figure
 
 ----------------------------------------------------------------------
 

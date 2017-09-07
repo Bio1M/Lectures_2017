@@ -113,7 +113,10 @@ Pearson/%: Pearson
 	cd Pearson && $(MAKE) $*
 
 Pearson:
-	/bin/ln -fs ~/Dropbox/1M/Pearson
+	/bin/ln -fs ~/Dropbox/courses/1M/Pearson
+
+rePearson:
+	/bin/rm -f Pearson
 
 ######################################################################
 
