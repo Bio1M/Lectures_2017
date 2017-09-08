@@ -5,6 +5,8 @@ target.mk
 
 webpix
 
+*.dmp
+
 *.Rout.pdf
 *.html
 

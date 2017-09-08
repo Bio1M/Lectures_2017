@@ -1,9 +1,15 @@
 !SQUARE {\bf %}
 !EM {\em %\,}
 
+!PIPE DEL
+handouts: --- %
+
 CHAPTER \section*{Bio 1M: %%}
 draft final: NOFRAME \title{%%}
 
+ADD: %!
+draft: Aadd
+
 ## An answer space in the notes only (answer uncertain or not specified yet in lecture)  
 NOANS ^ANS %%
-final draft %!
+final draft: %!
