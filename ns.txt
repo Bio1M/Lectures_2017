@@ -229,6 +229,14 @@ EC
 
 ----------------------------------------------------------------------
 
+RSLIDE Tetrapod limbs
+
+WIDEFIG Pearson/F25_ns/25_09_structural_homology_L.jpg
+
+----------------------------------------------------------------------
+
+
+
 Identifying homologies
 
 	A tricky subject
@@ -302,6 +310,12 @@ Fitness
 
 	Fitness is thus defined as average reproductive success, given a
 	suite of heritable traits
+
+----------------------------------------------------------------------
+
+RSLIDE Tuberculosis
+
+SIDEFIG Pearson/F25_ns/25_13_drug_resistance_L.jpg
 
 ----------------------------------------------------------------------
 
