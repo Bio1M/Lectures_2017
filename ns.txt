@@ -291,6 +291,8 @@ Natural selection drives evolution
 
 Natural selection (short version)
 
+ADD Do a better job about survival of the fittest -- how does it work at the group level?
+
 	Evolution by natural selection will occur if there is:
 
 		Heritable [variation] in traits

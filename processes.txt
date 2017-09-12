@@ -1,5 +1,5 @@
  
-
+CHAPTER Evolutionary processes
 
 ----------------------------------------------------------------------
 
@@ -7,11 +7,12 @@ Evolution by natural selection
 
 	Is something missing from the story I told last chapter?
 
+		Heritable [variation] in traits
+
+		[Selection] (i.e., differential reproductive success) _based on_
+		these traits
+
 	ANS Where does heritable variation in traits come from?
-
-	NOANS
-
-	NOANS
 
 ----------------------------------------------------------------------
 
@@ -28,6 +29,7 @@ Some genetics
 		These can be the same, or different
 
 ----------------------------------------------------------------------
+
 Loci
 
 	Complex organisms usually have two alleles at each locus
@@ -42,12 +44,11 @@ Loci
 
 ----------------------------------------------------------------------
 
-
 Two definitions of evolution
 
-	Lecture: heritable changes in species traits over time
+	_Lecture:_ heritable changes in species traits over time
 
-	Book: changes in allele frequencies
+	_Book:_ changes in allele frequencies
 
 	These definitions are consistent; use the one which helps you think
 	clearly
@@ -200,7 +201,6 @@ What do we mean by expected?
 
 ----------------------------------------------------------------------
 
-
 How do you know a coin is perfectly fair?
 
 	You can never be sure that a coin is perfectly fair, you can only evaluate
@@ -223,7 +223,7 @@ Hardy-Weinberg equilibrium
 
 		ANS No differences in fitness between genotypes
 
-	If these assumptions hold, we expect to see [Hardy-Weinberg
+	If these assumptions hold, we expect [Hardy-Weinberg
 	equilibrium]
 	
 		Hardy-Weinberg distribution, with no change in allele frequencies

@@ -5,7 +5,7 @@
 handouts: --- %
 
 CHAPTER \section*{Bio 1M: %%}
-draft final: NOFRAME \title{%%}
+draft final:\frametitle{%%}\tableofcontents[hideallsubsections]
 
 ADD: %!
 draft: Aadd
