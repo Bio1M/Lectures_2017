@@ -366,7 +366,7 @@ Activity
 	is heritable?
 
 		ANS Raise offspring from different combinations of mothers and
-		fathers, and compare their colors
+		fathers, and compare their beaks
 
 		ANS You might also want to try raising them in different
 		conditions (wet or dry, more or less food available)
@@ -374,8 +374,8 @@ Activity
 		ANS [Replicate].  Repeat the experiment with different offspring
 		(using different mothers and fathers).
 
-		ANS [Control].  Make all factors except for the color of mothers and
-		fathers as similar as possible
+		ANS [Control].  Make all factors except for the beak depths of mothers
+		and fathers as similar as possible
 
 ----------------------------------------------------------------------
 
@@ -581,6 +581,14 @@ Historical constraints
 		Blind spot in the vertebrate eye
 
 		Humans are not well designed to be upright
+
+----------------------------------------------------------------------
+
+PSLIDE Vertebrate blind spot
+
+ADD References to wikipedia here
+
+WIDEFIG webpix/blind_spot.png
 
 ----------------------------------------------------------------------
 

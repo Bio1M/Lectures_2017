@@ -1,5 +1,8 @@
 # Lectures
 
+## Keep track of lecture progress
+Sources += lecture.txt
+
 ######################################################################
 
 current: target
