@@ -403,11 +403,7 @@ Inheritance of acquired characteristics
 
 	It is now known that while individuals do often change in response
 	to their environment, such changes are not (usually) passed on to
-	offspring
 
-----------------------------------------------------------------------
-
-Goal-directed evolution
 
 	This is the idea that organisms evolve towards specific goals
 
