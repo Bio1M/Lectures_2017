@@ -46,16 +46,16 @@ Loci
 
 Two definitions of evolution
 
-	_Lecture:_ heritable changes in species traits over time
+	_Lecture_: heritable changes in species traits over time
 
-	_Book:_ changes in allele frequencies
+	_Book_: changes in allele frequencies
 
 	These definitions are consistent; use the one which helps you think
 	clearly
 
 ----------------------------------------------------------------------
 
-SEC Analyzing genotype frequencies | (pp.~504--508)
+SEC Analyzing genotype frequencies | S25.2
 
 ----------------------------------------------------------------------
 
@@ -73,7 +73,29 @@ Genotypes and phenotypes
 
 ----------------------------------------------------------------------
 
+PSLIDE Example: peppered moths
+
+BCC
+
+WIDEFIG webpix/pepper_moth.jpg
+
+NCC
+
+WIDEFIG webpix/carbon_moth.jpg
+
+EC
+
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG webpix/pepper_birch.jpg
+
+----------------------------------------------------------------------
+
+
 Example: peppered moths
+
+	NOTES Check ``peppered moths'' or ``Kettlewell's experiment'' on wikipedia
 
 	Two different alleles possible at the wing color gene: $A_1$
 	and $A_2$.
@@ -166,6 +188,12 @@ Hardy-Weinberg distribution
 
 		Frequency of genotype $A_1	A_2$ is $2pq$.
 
+	Why the 2?
+
+		ANS Because you could get $A_1$ from Mom and $A_2$ from Dad,
+			or $A_1$ from Dad and $A_2$ from Mom
+			\ldots two ways to do it
+
 ----------------------------------------------------------------------
 
 Example: calculating allele frequencies
@@ -244,10 +272,16 @@ Differences from equilibrium
 
 ----------------------------------------------------------------------
 
+PSLIDE Example: Human blood groups
+
+WIDEFIG Pearson/F26_processes/TB26_1_MN_blood_groups_L.jpg
+
+----------------------------------------------------------------------
+
 Example: Human blood groups
 
 	MN blood groups in different human populations are very close to
-	Hardy-Weinberg equilibrium (Table 25.1)
+	Hardy-Weinberg equilibrium | Table 25.1
 
 		No evidence for non-random mating, or for fitness differences.
 
@@ -259,7 +293,13 @@ Example: Human blood groups
 
 ----------------------------------------------------------------------
 
-Example: Human HLA genes
+PSLIDE Example: Human HLA genes
+
+WIDEFIG Pearson/F26_processes/TB26_2_HLA_genotypes_L.jpg
+
+----------------------------------------------------------------------
+
+Example: Human HLA genes | Table 25.2
 
 	HLA genes are used by the immune system to recognize disease-causing
 	organisms
@@ -268,7 +308,7 @@ Example: Human HLA genes
 	recognize more bacteria and viruses
 
 	Data shows that more people are heterozygous for HLA genes than
-	would be expected under the Hardy-Weinberg assumption (Table 25.2)
+	would be expected under the Hardy-Weinberg assumption
 
 ----------------------------------------------------------------------
 
@@ -289,16 +329,18 @@ Heterozygous HLA genes
 		ANS People might be more attracted to people with different HLA
 		types
 
+			ANS Maybe _evolved_ this way because of reasons above
+
 ----------------------------------------------------------------------
 
-SEC Types of natural selection | (pp.~508--511)
+SEC Types of natural selection | S25.3
 
 ----------------------------------------------------------------------
 
 TSS Directional selection
 
 	[Directional selection] tends to move a population in a particular
-	direction (Fig.~25.3)
+	direction
 
 		Giraffe necks
 
@@ -306,24 +348,48 @@ TSS Directional selection
 
 ----------------------------------------------------------------------
 
+PSLIDE Cliff swallow example
+
+FIG webpix/swallows.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Cliff swallow example
+
+FIG Pearson/F26_processes/26_05b_directional_select_L.jpg
+
+----------------------------------------------------------------------
+
+
 Multi-directional selection
 
 	Directional selection can change through time with the environment
 
-		Finch beaks get thicker when food is scarce, and smaller when
-		food is abundant (Fig.~24.14)
+		Swallows may get larger during extreme cold spells, smaller again
+		during normal weather
 
-		Swallows get larger during extreme cold spells, smaller again
-		during normal weather (see p.~508).
+			But we need to know whether the changes we saw were heritable
+
+		Finch beaks get thicker when food is scarce, and smaller when
+		food is abundant 
+
+		Why might small-beaked finches have advantages?
+
+			ANS Lots of reasons!
 
 ----------------------------------------------------------------------
 
 TSS Stabilizing selection
 
 	[Stabilizing selection] tends to keep the population where it is
-	(Fig.~25.4)
 
-		Example: human birthweights
+		Example: human birthweights | Fig 25.4
+
+----------------------------------------------------------------------
+
+PSLIDE Stabilizing selection
+
+FIG Pearson/F26_processes/26_06b_stabilizing_select_L.jpg
 
 ----------------------------------------------------------------------
 
@@ -335,20 +401,22 @@ Connections between selection types
 		ANS The population arrives at the target, and directional
 		selection becomes stabilizing selection
 
-		Examples?
+	Examples?
 
-			ANS Giraffe necks
+		ANS Giraffe necks
 
-			ANS Human brains
+		ANS Human brains
 
-			ANS Almost everything
+		ANS Almost everything
+
+			ANS at any given time
 
 ----------------------------------------------------------------------
 
 TSS Disruptive selection
 
 	Disruptive selection favors phenotypes _different_ from the average
-	value (Fig.~25.5)
+	value | Fig 25.5
 
 		Black-bellied seedcrackers
 
@@ -360,7 +428,19 @@ TSS Disruptive selection
 
 ----------------------------------------------------------------------
 
-SEC Other evolutionary mechanisms | (pp.~511-518)
+PSLIDE Seedcrackers
+
+FIG webpix/seedcracker.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Disruptive selection
+
+FIG Pearson/F26_processes/26_07b_disruptive_select_L.jpg
+
+----------------------------------------------------------------------
+
+SEC Other evolutionary mechanisms
 
 ----------------------------------------------------------------------
 
@@ -369,7 +449,7 @@ TSS Genetic drift
 	[Genetic drift] is change in allele frequencies due to random
 	sampling:
 
-		Some individuals have more offspring than others
+		Some individuals have more offspring than others due to chance events
 
 		Offspring receive certain parental alleles, and not others
 
@@ -387,9 +467,23 @@ Thought experiment
 	Now imagine choosing 100 alleles at random (with replacement) from a
 	population of 50 $A$ and 50 $B$ alleles
 
-		Repeat, using new population as a starting point
+		Repeat, using new population as a starting point | Fig 25.6
 
-	Fig 25.6
+----------------------------------------------------------------------
+
+PSLIDE Genetic drift
+
+Population 400
+
+FIG Pearson/F26_processes/26_12_2_genetic_drift_L.jpg
+
+----------------------------------------------------------------------
+
+PSLIDE Genetic drift
+
+Population 4
+
+FIG Pearson/F26_processes/26_12_1_genetic_drift_L.jpg
 
 ----------------------------------------------------------------------
 
@@ -428,7 +522,7 @@ Fixation and loss
 
 ----------------------------------------------------------------------
 
-TSS Gene flow
+TSS Gene flow | S25.4
 
 	[Gene flow] is the movement of alleles from one population to another
 
@@ -443,7 +537,7 @@ TSS Gene flow
 
 ----------------------------------------------------------------------
 
-TSS Mutation
+TSS Mutation | S25.5
 
 	[Mutations] are heritable errors in copying DNA
 
@@ -480,14 +574,7 @@ Complex organisms
 
 		Much evidence of intermediate forms
 
-	CLASS E.g., example about the evolution of the eye linked in the
-	notes
-
-	NOTES An interesting discussion of the evolution of the eye can be
-	found at
-	\begin{verbatim}
-	http://www.pbs.org/wgbh/evolution/library/01/1/l_011_01.html 
-	\end{verbatim}
+	NOTES Check out videos of ``evolution of the eye''
 
 ----------------------------------------------------------------------
 
@@ -503,7 +590,7 @@ What about sex?
 
 ----------------------------------------------------------------------
 
-SEC Mating patterns | pp.~519--524
+SEC Mating patterns
 
 ----------------------------------------------------------------------
 
@@ -532,6 +619,8 @@ Inbreeding depression
 
 		As populations get smaller, inbreeding becomes more common
 
+	Human demographic studies show strikingly lower survival for children of first cousins | Table 25.4
+
 ----------------------------------------------------------------------
 
 TSS Sexual selection
@@ -545,11 +634,18 @@ TSS Sexual selection
 
 Example: zebra finches
 
-	Males but not females have colorful orange beaks (Fig.~25.12)
+	Males but not females have colorful orange beaks
 
-	Hypothesis: these beaks make males more attractive to females
+	Hypothesis: these beaks make males more attractive to females | Fig 25.17
 
 ----------------------------------------------------------------------
+
+PSLIDE Zebra finches
+
+ADD F25.17
+
+----------------------------------------------------------------------
+
 
 Zebra finch experiments
 
@@ -559,7 +655,7 @@ Zebra finch experiments
 
 		They are preferred by females
 
-	Why not simply use birds whose beaks are naturally more or less
+	Why not simply find and use birds whose beaks are naturally more or less
 	orange?
 
 		ANS Orange-beaked birds may differ in other ways (bigger,
@@ -575,7 +671,7 @@ Zebra finch experiments
 Why the males?
 
 	Males often have striking traits that females lack, used in
-	courtship, or in battles for mates (Fig.~25.15)
+	courtship, or in battles for mates
 
 		Sexual [dimorphism] refers to trait differences between males and
 		females
@@ -598,10 +694,10 @@ Investment in reproduction
 		Females are often more involved in caring for offspring
 
 	If females invest a lot in each offspring, they can maximize fitness
-	by being choosy about mates
+	by _being choosy about mates_
 
 	If males invest little in each offspring, they can maximize fitness
-	by mating as much as possible
+	by _mating as much as possible_
 
 ----------------------------------------------------------------------
 
@@ -620,9 +716,6 @@ Testing the theory of sexual selection
 
 			ANS Yes, females are larger than males, and develop bright
 			colors at courtship time
-
-		NOTES For more information, see \begin{verbatim}
-		http://books.google.com/books?id=oURL7SdooskC \end{verbatim}
 
 ----------------------------------------------------------------------
 
@@ -649,14 +742,19 @@ Example: elephant seals
 
 	Huge variation in reproductive success
 
-	Huge size difference between males and females (strong sexual
-	dimorphism)
+	Huge size difference between males and females (strong sexual dimorphism) | Fig 25.19
 
-	Fig.~25.14
+----------------------------------------------------------------------
+
+PSLIDE Elephant seals
+
+ADD F25.19 (or something better)
 
 ----------------------------------------------------------------------
 
 What about people?
+
+	Men and women have pretty clear size differences
 
 	How unequal is child-rearing in people?
 
