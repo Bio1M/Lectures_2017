@@ -370,8 +370,8 @@ Activity
 		ANS Raise offspring from different combinations of mothers and
 		fathers, and compare their beaks
 
-		ANS You might also want to try raising them in different
-		conditions (wet or dry, more or less food available)
+			ANS You might also want to try raising them in different
+			conditions (wet or dry, more or less food available)
 
 		ANS [Replicate].  Repeat the experiment with different offspring
 		(using different mothers and fathers).
@@ -436,6 +436,8 @@ Inheritance of acquired characteristics
 
 		ANS Use replicate populations (e.g., three control and three
 		experimental populations)
+
+			ANS Or three ``choppy'' and three ``stretchy'' populations
 
 ----------------------------------------------------------------------
 
