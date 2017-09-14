@@ -646,7 +646,6 @@ ADD F25.17
 
 ----------------------------------------------------------------------
 
-
 Zebra finch experiments
 
 	Feed some males enriched diets
