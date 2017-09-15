@@ -229,6 +229,14 @@ EC
 
 ----------------------------------------------------------------------
 
+RSLIDE Tetrapod limbs
+
+WIDEFIG Pearson/F25_ns/25_09_structural_homology_L.jpg
+
+----------------------------------------------------------------------
+
+
+
 Identifying homologies
 
 	A tricky subject
@@ -283,6 +291,8 @@ Natural selection drives evolution
 
 Natural selection (short version)
 
+ADD Do a better job about survival of the fittest -- how does it work at the group level?
+
 	Evolution by natural selection will occur if there is:
 
 		Heritable [variation] in traits
@@ -302,6 +312,12 @@ Fitness
 
 	Fitness is thus defined as average reproductive success, given a
 	suite of heritable traits
+
+----------------------------------------------------------------------
+
+RSLIDE Tuberculosis
+
+SIDEFIG Pearson/F25_ns/25_13_drug_resistance_L.jpg
 
 ----------------------------------------------------------------------
 
@@ -352,16 +368,16 @@ Activity
 	is heritable?
 
 		ANS Raise offspring from different combinations of mothers and
-		fathers, and compare their colors
+		fathers, and compare their beaks
 
-		ANS You might also want to try raising them in different
-		conditions (wet or dry, more or less food available)
+			ANS You might also want to try raising them in different
+			conditions (wet or dry, more or less food available)
 
 		ANS [Replicate].  Repeat the experiment with different offspring
 		(using different mothers and fathers).
 
-		ANS [Control].  Make all factors except for the color of mothers and
-		fathers as similar as possible
+		ANS [Control].  Make all factors except for the beak depths of mothers
+		and fathers as similar as possible
 
 ----------------------------------------------------------------------
 
@@ -424,6 +440,8 @@ Inheritance of acquired characteristics
 
 		ANS Use replicate populations (e.g., three control and three
 		experimental populations)
+
+			ANS Or three ``choppy'' and three ``stretchy'' populations
 
 ----------------------------------------------------------------------
 
@@ -571,6 +589,14 @@ Historical constraints
 		Blind spot in the vertebrate eye
 
 		Humans are not well designed to be upright
+
+----------------------------------------------------------------------
+
+PSLIDE Vertebrate blind spot
+
+ADD References to wikipedia here
+
+WIDEFIG webpix/blind_spot.png
 
 ----------------------------------------------------------------------
 
