@@ -642,7 +642,7 @@ Example: zebra finches
 
 PSLIDE Zebra finches
 
-ADD F25.17
+FIG Pearson/F26_processes/un/26_08a_zebra_finch_beaks_U.jpg
 
 ----------------------------------------------------------------------
 
@@ -664,6 +664,12 @@ Zebra finch experiments
 	birds with orange beaks?
 
 		ANS The diet enrichment may have other effects 
+
+----------------------------------------------------------------------
+
+PSLIDE Finch results
+
+FIG Pearson/F26_processes/26_08b_zebra_finch_beaks_L.jpg
 
 ----------------------------------------------------------------------
 
@@ -745,9 +751,11 @@ Example: elephant seals
 
 ----------------------------------------------------------------------
 
-PSLIDE Elephant seals
+WIDEFIG webpix/seal_couple.jpg
 
-ADD F25.19 (or something better)
+----------------------------------------------------------------------
+
+WIDEFIG webpix/seal_battle.jpg
 
 ----------------------------------------------------------------------
 
