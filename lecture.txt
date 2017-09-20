@@ -1,4 +1,10 @@
-L1 Through giraffes (plus Car Trouble assignment)
+intro: 1.5 periods
 
-L2 START U2. Through Change through time
+ns: 2 periods
+
+processes: 2.5 periods
+
+speciation: speciation.txt
+
+phylogeny: phylogeny.txt
 
