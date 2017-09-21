@@ -1,12 +1,4 @@
 
-EXTRA
-
-	Fill in Fig stuff
-
-	ADD
-
-----------------------------------------------------------------------
-
 CHAPTER Speciation
 
 ----------------------------------------------------------------------
@@ -109,7 +101,10 @@ Disadvantages of the biological species concept
 
 ----------------------------------------------------------------------
 
-ADDSLIDE A species ring example?
+EXTRA A species ring example?
+
+Maybe somewhere else lower down? Problem not specific to biological concept
+
 
 ----------------------------------------------------------------------
 
