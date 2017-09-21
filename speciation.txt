@@ -105,7 +105,6 @@ EXTRA A species ring example?
 
 Maybe somewhere else lower down? Problem not specific to biological concept
 
-
 ----------------------------------------------------------------------
 
 TSS Morphological species concept
@@ -130,7 +129,17 @@ TSS Morphological species concept
 
 ----------------------------------------------------------------------
 
-ADDSLIDE Meadowlarks
+PSLIDE Meadowlarks
+
+BCC
+
+CFIG webpix/western_meadowlark.jpg
+
+NCC
+
+CFIG webpix/eastern_meadowlark.jpg
+
+EC
 
 ----------------------------------------------------------------------
 
@@ -380,6 +389,20 @@ TSS Reinforcement
 	[reinforce] the distinction between the two species
 
 		They avoid mating, using coloration, timing, courtship rituals
+
+----------------------------------------------------------------------
+
+PSLIDE Meadowlarks
+
+BCC
+
+CFIG webpix/western_meadowlark.jpg
+
+NCC
+
+CFIG webpix/eastern_meadowlark.jpg
+
+EC
 
 ----------------------------------------------------------------------
 
