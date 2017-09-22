@@ -8,7 +8,7 @@ CHAPTER \section*{Bio 1M: %%}
 draft final:\frametitle{%%}\tableofcontents[hideallsubsections]
 complete: \section*{Bio 1M: %% (complete)}
 
-ADD: %!
+ADD %!
 draft: Aadd
 
 ## An answer space in the notes only (answer uncertain or not specified yet in lecture)  
