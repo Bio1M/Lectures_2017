@@ -6,7 +6,10 @@ processes: 2.5 periods
 
 Start Thu with sexual selection (morning class a bit ahead of this)
 
-speciation: speciation.txt
+speciation: 2.0 periods (or a little less, beef it up a bit)
 
 phylogeny: phylogeny.txt
 
+Morning: All done with speciation
+
+Midday: talk about meadowlarks

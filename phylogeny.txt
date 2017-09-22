@@ -4,12 +4,6 @@ CHAPTER Chapter 27: Phylogeny, etc.
 
 ----------------------------------------------------------------------
 
-CSLIDE Chapter 27 Outline
-
-TOC
-
-----------------------------------------------------------------------
-
 TSEC Phylogeny | (pp.~543-548; B3--B5)
 
 	Phylogeny is the evolutionary history of a group of organisms
@@ -218,7 +212,7 @@ Parsimony
 
 ----------------------------------------------------------------------
 
-CSLIDE Likelihood
+EXTRA Likelihood
 
 	Parsimony is the assumption that the most parsimonious (simplest)
 	explanation is the most likely
@@ -242,8 +236,6 @@ TSS Example: the evolution of whales
 	Cladistic analysis eventually showed that whales are closely related
 	to hippos (many synapomorphies)
 
-		Supported by later fossil discovery!
-
 	What about phenetic analysis?
 
 ----------------------------------------------------------------------
@@ -264,13 +256,35 @@ Tree-construction analysis
 
 Tree discussion
 
-	ANS Universal characteristics have no impact on our trees
+	What is the effect of universal characteristics (like Z, above)?
 
-	ANS Characteristics of only one species have no impact on synapomorphy trees
+		ANS None
+
+	What is the effect of unique characteristics (like E, F, G, H, I)
+
+		ANS They affect phenetic trees, but not cladistic trees
+
+		ANS As long as we are sure that they are derived!
 
 	Why might whales have more derived characters than the other species?
 
 		ANS Because they have had to adapt more since moving to the water
+
+----------------------------------------------------------------------
+
+Confirmation | Fig 24.11
+
+BCC
+
+CFIG Pearson/F25_ns/25_11_whale_evolution_U.jpg
+
+NCC
+
+	Intermediate forms between hippo-like animals and whales
+
+	Discovered _after_ they were predicted from DNA evidence!
+
+EC
 
 ----------------------------------------------------------------------
 
@@ -280,7 +294,7 @@ Lessons
 
 	Any analysis can be misleading, if data are limited
 
-		(i.e., always)
+		This is almost always a concern
 
 	Inferences about the common ancestor can be crucial
 
