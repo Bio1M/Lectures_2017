@@ -224,7 +224,7 @@ How do species split?
 
 	Which comes first?
 
-		ANS Isolation has to come first; with too much gene flow populations can't
+		ANS Isolation is necessary: with too much gene flow populations can't
 		diverge
 
 		ANS There can also be a loop: if species diverge, there can be natural
@@ -263,7 +263,11 @@ TSS Dispersal
 
 ----------------------------------------------------------------------
 
-PICSLIDE HIGHFIG Pearson/F27_speciation/27_05_vicariance.jpg
+PICSLIDE HIGHFIG Pearson/F27_speciation/27_04a_allopatry.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG webpix/island_lizards.png
 
 ----------------------------------------------------------------------
 
@@ -282,6 +286,11 @@ TSS Vicariance
 		range
 
 ----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/F27_speciation/27_05a_vicariance.jpg
+
+----------------------------------------------------------------------
+
 
 Example: ratites
 
@@ -310,7 +319,13 @@ TSEC Species divergence in sympatry | S26.3
 
 	Are there exceptions to this expectation?
 
-		ANS Seed crackers
+		ANS Seed crackers?
+
+			ANS We don't really know yet
+
+		ANS Hawthorn flies
+
+		ANS Soapberry bugs
 
 ----------------------------------------------------------------------
 

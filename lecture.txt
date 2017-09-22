@@ -10,3 +10,6 @@ speciation: speciation.txt
 
 phylogeny: phylogeny.txt
 
+Morning: start new section
+
+Midday: talk about meadowlarks
