@@ -9,14 +9,10 @@ draft final:\frametitle{%%}\tableofcontents[hideallsubsections]
 complete: \section*{Bio 1M: %% (complete)}
 
 ADD %!
-<<<<<<< HEAD
-draft: Aadd
-=======
 draft: Aadd %%
 
 ADDSLIDE %!
 draft: ^DEFHEAD Aadd %%
->>>>>>> 08246f2f823cd73748833afcee1ca09f97e4de66
 
 ## An answer space in the notes only (answer uncertain or not specified yet in lecture)  
 NOANS ^ANS %%
