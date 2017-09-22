@@ -1,4 +1,15 @@
-L1 Through giraffes (plus Car Trouble assignment)
+intro: 1.5 periods
 
-L2 START U2. Through Change through time
+ns: 2 periods
 
+processes: 2.5 periods
+
+Start Thu with sexual selection (morning class a bit ahead of this)
+
+speciation: speciation.txt
+
+phylogeny: phylogeny.txt
+
+Morning: start new section
+
+Midday: talk about meadowlarks
