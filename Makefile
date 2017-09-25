@@ -121,6 +121,12 @@ Pearson:
 rePearson:
 	/bin/rm -f Pearson
 
+jdpix: 
+	/bin/ln -fs ~/Dropbox/courses/1M/jdpix
+
+jdpix/%: jdpix
+	cd $< && $(MAKE) $*
+
 ######################################################################
 
 ## Pages

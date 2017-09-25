@@ -1,10 +1,15 @@
- 
 
-CHAPTER Chapter 27: Phylogeny, etc.
+EXTRA
+
+STAR tag for guessing game?
 
 ----------------------------------------------------------------------
 
-TSEC Phylogeny | (pp.~543-548; B3--B5)
+CHAPTER Chapter 27: Phylogeny and the history of life
+
+----------------------------------------------------------------------
+
+TSEC Phylogeny | S27.1; Bioskills 3 (back of book)
 
 	Phylogeny is the evolutionary history of a group of organisms
 
@@ -15,7 +20,7 @@ TSEC Phylogeny | (pp.~543-548; B3--B5)
 
 ----------------------------------------------------------------------
 
-Phylogenetic trees
+Phylogenetic trees | Fig B3.1--2
 
 	A [phylogenetic tree] is a model of how a group of organisms
 	descended from a common ancestor
@@ -28,7 +33,13 @@ Phylogenetic trees
 
 		Polytomies mean we don't know which event happened first.
 
-	Figures BS2.1, BS2.2
+----------------------------------------------------------------------
+
+PICSLIDE FIG Pearson/F_skills/B07_1_phylogenetic_trees.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE FIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
 
 ----------------------------------------------------------------------
 
@@ -47,7 +58,25 @@ Monophyletic group
 
 		What are some prominent groups that are not clades?
 
-			ANS apes, reptiles
+			ANS apes, reptiles, dinosaurs
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F_skills/B07_3_alternate_phylo_trees.jpg
+
+----------------------------------------------------------------------
+
+Sister taxa
+
+	Sister taxa can be a useful way of thinking about trees
+
+		two taxa that share a common node
+
+		You need to take the whole taxon, when appropriate
+
+	E.g., sisters of: _Homo sapiens_; _Homo erectus_; humans?
+
+		ANS _Homo neanderthalensis_; _Hn_ and _Hs_; _Paranthropus_
 
 ----------------------------------------------------------------------
 
@@ -60,8 +89,22 @@ Reading phylogenetic trees
 
 	A tree is a model of how evolution occurred
 
-		Trees that correspond to the same model are considered equivalent
-		(Figure BS2.3)
+		Trees that correspond to the same model are considered equivalent | Figure B3.3
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F_skills/B07_3_alternate_phylo_trees.jpg
+
+----------------------------------------------------------------------
+
+Order of species
+
+	Except for the branching pattern, we don't interpret anything about the
+	order of a tree
+
+		No species are higher or lower than others, according to the tree
+
+		We've all been evolving for the same amount of time
 
 	How do we judge how closely related two organisms are, according to a
 	tree?
@@ -97,6 +140,8 @@ Morphological vs. genetic characteristics
 	When should we use morphological characteristics?
 
 		ANS When genetic information is not available
+
+			ANS Most fossil organisms
 
 		COMMENT Some viruses evolve so fast that morphological
 		characteristics _may_ be more stable than genetic
@@ -136,9 +181,9 @@ Synapomorphies
 		ANS Because derived characters correspond to changes we must
 		explain with our evolutionary model (phylogeny)
 
-		COMMENT Example: flight in oaks, birds, fish
+		Example: flight in oaks, birds, fish
 
-		COMMENT Example: flight in mosquitoes, birds, fish
+		Example: flight in mosquitoes, birds, fish
 
 ----------------------------------------------------------------------
 
@@ -157,15 +202,12 @@ What characters are derived?
 		One way to think about cladistic vs.~phenetic analysis is that
 		phenetic analysis treats derived and basal characters equally
 
-		COMMENT You are not responsible for the (confusing) idea of basal
-		and derived _groups_.
-
 ----------------------------------------------------------------------
 
 Inferring the common ancestor
 
 	We want to know what the common ancestor was like, so we can tell
-	which characters are derived (as opposed to [basal])
+	which characters are derived (as opposed to basal)
 
 	This can be done sometimes by common sense
 	
@@ -186,15 +228,15 @@ Confusing the phylogeny
 	Two species may have the same trait because the trait evolved twice
 	independently -- [convergent evolution]
 
-		Flight, trees
+		ANS Flight, trees, dolphins and icthyosaurs
 
 	An organism may lack a character that its ancestors had --
 	[secondary loss]
 
-		COMMENT This can be even more confusing
+		This can be even more confusing
 
 	Similarities that are not homologies (ie., not due to common
-	ancestry) are called [homoplasies] (Fig.~27.2).
+	ancestry) are called [homoplasies] | Fig.~27.2
 
 ----------------------------------------------------------------------
 
@@ -210,33 +252,26 @@ Parsimony
 
 		ANS It may also help to use many different taxa
 
-----------------------------------------------------------------------
-
-EXTRA Likelihood
-
-	Parsimony is the assumption that the most parsimonious (simplest)
-	explanation is the most likely
-
-	Modern cladistic analysis may use parsimony or likelihood methods
-
-	Likelihood methods are often used for genetic data: they use models
-	to explicitly estimate which explanation is most likely
-
-	You do not need to know this
+	COMMENT Modern approaches that use genetic data may use more sophisticated
+	approaches, rather than simple parsimony
 
 ----------------------------------------------------------------------
 
 TSS Example: the evolution of whales
 
 	Whales seem, on the surface, to be pretty different from other
-	mammals, including their own group, the artiodactyls
+	mammals, including the closest group, the artiodactyls
 
-	Whales lack the distinctive artiodactyl ankle structure (surprise!)
+	Early phenetic analyses showed whales in their own group (sisters to
+	artiodactyls
 
-	Cladistic analysis eventually showed that whales are closely related
-	to hippos (many synapomorphies)
+		Whales lack the distinctive artiodactyl ankle structure (surprise!)
 
-	What about phenetic analysis?
+	What about cladistic analysis?
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04a_whale_phylogeny.jpg
 
 ----------------------------------------------------------------------
 
@@ -272,11 +307,15 @@ Tree discussion
 
 ----------------------------------------------------------------------
 
+PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_04b_whale_phylogeny.jpg
+
+----------------------------------------------------------------------
+
 Confirmation | Fig 24.11
 
 BCC
 
-CFIG Pearson/F25_ns/25_11_whale_evolution_U.jpg
+SIDEFIG Pearson/F25_ns/25_11_whale_evolution_U.jpg
 
 NCC
 
@@ -298,7 +337,9 @@ Lessons
 
 	Inferences about the common ancestor can be crucial
 
-		What if we thought E, F, G, H and I were all basal characters?
+		What if we thought the artiodactyl ancestor was aquatic?
+
+			E, F, G, H and I could all be basal characters
 
 			ANS We would conclude that cows are closely related to hippos
 
@@ -313,7 +354,7 @@ Phylogenetic trees are approximations!
 
 		The true history of life cannot really be summarized by a tree
 
-			Sex, endosymbiosis
+			Sex, other forms of combination or gene transfer
 
 		Trees constructed by humans are not necessarily even the best
 		approximations to the true history of life (and our guesses may
@@ -321,9 +362,83 @@ Phylogenetic trees are approximations!
 
 ----------------------------------------------------------------------
 
-TSEC The fossil record | (pp.~548--551)
+SEC The history of life | S1.4
 
-	A [fossil] is a physical trace of an organism from the past
+----------------------------------------------------------------------
+
+TSS The shape of the tree
+
+	Big recent innovations have told us a lot about the history of life
+
+		Detailed genetic information
+
+		Sophisticated analysis techniques
+
+		Electronic computers
+
+----------------------------------------------------------------------
+
+Three domains | Fig 1.6
+
+	Bacteria
+
+		no nuclei; mostly small
+	
+		most of the micro-organisms you see
+
+	Archaea
+
+		no nuclei; mostly small
+
+		rarer, or live in more extreme environments
+
+	Eukarya
+
+		large, nucleated cells
+
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/alpha1_intro/01_06_tree_of_life.jpg
+
+----------------------------------------------------------------------
+
+Eukaryotes
+
+	Seem to be sisters with archaea, according to most of our key genes
+
+	Characterized by [nuclei] and [mitochondria]
+
+	Mitochondria came later, and are captured bacteria!
+
+	Where did the nucleus come from?
+
+		Nobody knows
+
+	The tree is only part of the story!
+
+		If genes (or even whole bacteria) can be transferred, life is not really
+		a tree
+
+----------------------------------------------------------------------
+
+Five kingdoms
+
+	Not really a good way to describe the evolution of life
+
+	So why has this idea persisted for so long?
+
+		ANS It matches the way the world _looks_
+
+		ANS Animals, plants and fungi dominate _visible_ life
+
+		ANS Archaea and bacteria are difficult to tell apart even with a
+		microscope
+
+----------------------------------------------------------------------
+
+TSS The fossil record | (pp.~526--528)
+
+	A [fossil] is a physical trace of an organism from the past | Fig 27.7
 
 		Intact fossils retain their form and substance
 
@@ -337,7 +452,9 @@ TSEC The fossil record | (pp.~548--551)
 
 	COMMENT Does any of this seem likely?
 
-	Figure 27.6
+----------------------------------------------------------------------
+
+PICSLIDE HIGHFIG Pearson/F28_phylogeny/28_05_fossil_types.jpg
 
 ----------------------------------------------------------------------
 
@@ -374,7 +491,11 @@ Accounting for biases
 
 ----------------------------------------------------------------------
 
-SEC The timeline of life | (pp.~550-553)
+PICSLIDE WIDEFIG jdpix/bee.jpg
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG jdpix/pollen.jpg
 
 ----------------------------------------------------------------------
 
@@ -392,31 +513,127 @@ TSS Putting the timeline together
 	These techniques are complicated, and making the timeline is a
 	difficult and exciting puzzle 
 
-		COMMENT Orchid example
+----------------------------------------------------------------------
 
-		NOTES 
-		\begin{verbatim}
-			http://www.bioedonline.org/news/news.cfm?art=3563
-		\end{verbatim}
-		See links from this article for more info.
+RSLIDE Guessing game
+
+	For most of Earth's history, there has been:
+
+		No life
+
+		Life, but no multi-cellular organisms
+
+		Multi-cellular organisms, but no plants, animals or fungi
+
+		Plants, animals, and fungi, but no flowering plants, birds
+		or mammals
+
+		Flowering plants, birds and mammals, but no good espresso
 
 ----------------------------------------------------------------------
 
-TSEC Using history to understand biology
+TSEC Processes of diversification
 
-	Biologists combine information about:
+	Diversity sometimes arises gradually, and sometimes
+	dramatically ([radiation] events)
 
-		evolutionary history
-
-		genetic composition
-
-		structure and function
-
-	as an important tool to figure out how organisms work
+	Species (and families, and bigger groups) sometimes disappear
+	gradually, and sometimes dramatically ([mass extinction] events)
 
 ----------------------------------------------------------------------
 
-Hox genes
+TSS Adaptive radiations | pp.~530--534
+
+	An [adaptive radiation] occurs when a single lineage produces many
+	descendant species, in a short period of time, that make their
+	living in a variety of different ways
+
+	Triggered by opportunity, either in the environment, or because of
+	the evolution of the organisms themselves
+
+----------------------------------------------------------------------
+
+Triggers for adaptive radiation
+
+	Ecological opportunity 
+
+		An organism arrives in an area with no similar organisms
+
+		A group of competing species is driven extinct (or nearly extinct) by
+		some other cause
+
+	Morphological innovation: an organism comes up with a good, new idea
+
+		Legs in tetrapods
+
+		New body plans in the Cambrian explosion
+
+		Multi-cellularity
+
+	Co-evolution: the evolution of one group creates new niches for
+	another group, and vice versa
+
+		The insects and the flowering plants
+
+----------------------------------------------------------------------
+
+Colonization 
+
+	In many different cases, a new kind of organism has colonized an
+	area, and diversified rapidly
+
+	This is an opportunity for studying how evolution can go:
+	
+		What is the same, and what is different, between similar cases?
+
+		Finches | (earlier chapters)
+
+		Silverswords in Hawaii | Fig 27.14
+
+		Anolis lizards | Fig 27.15
+
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F28_phylogeny/28_10c_Anolis_radiation.jpg
+
+----------------------------------------------------------------------
+
+
+Competition
+
+	Mammals did very well after the dinosaurs went extinct
+
+	We have seen major tree extinctions due to introduced diseases in the last
+	century
+
+		ANS It remains to be seen whether new evolution will fill this opportunity
+
+----------------------------------------------------------------------
+
+Morphological innovation
+
+	A new adaptive mutation can open up further possibilities for adaptation
+
+		[Hox gene] mutations allowed early animals to develop complex body plans
+
+		The arthropod body plan
+		
+			insects, arachnids, crustaceans \ldots
+
+		The arthropod body plan
+		
+			reptiles, mammals \ldots
+
+		Flowering plants
+
+			This opened many new opportunities for _everyone_ (insects, mammals,
+			birds), not just the innovators
+
+			ANS Co-evolution
+
+----------------------------------------------------------------------
+
+Hox genes | Fig 27.21
 
 	[Hox genes] are involved in determining the identity of different
 	body parts
@@ -429,7 +646,9 @@ Hox genes
 	Evidence that new hox genes were largely created by [gene
 	duplication] events
 
-	Figure 27.10
+----------------------------------------------------------------------
+
+PICSLIDE WIDEFIG Pearson/F28_phylogeny/28_13_Hox_genes.jpg
 
 ----------------------------------------------------------------------
 
@@ -448,19 +667,37 @@ Gene duplication
 
 ----------------------------------------------------------------------
 
-TSS Evolutionary ecology
+TSS Mass extinctions | (pp.~575-578)
 
-	Studying the history of life also provides information about how
-	organisms evolve to fill (and create) ecological niches
+	Five major mass extinctions so far
 
-	In many different cases, a new kind of organism has colonized an
-	area, and diversified rapidly
+	The last one (and maybe others) was caused by a cosmic impact
 
-		What is the same, and what is different, between similar cases?
+		It could happen again
 
-	Anolis lizards example | (p. 559)
+	Are we in the middle of a mass extinction now?
 
-	Figure 27.12
+		Extinction rate very high over the last 400 years
+
+		Time will tell, but we should be worried 
 
 ----------------------------------------------------------------------
+
+Conclusion
+
+	The best way to reconstruct evolution is with a _model_ of how it occurred
+
+		Molecular information, and computer modeling has changed our view of the
+		tree of life
+
+		life is not really a tree -- genetic information can be transferred
+
+	Scientists use many clues to figure out the history of life on earth
+
+		Fossils, geology, phylogeny
+
+	Life has diversified both gradually, and with dramatic episodes
+
+		Adaptive radiations, mass extinctions
+
 
