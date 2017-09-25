@@ -4,6 +4,7 @@ target.mk
 .*.sw*
 
 webpix
+jdpix
 
 *.dmp
 
