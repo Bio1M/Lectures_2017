@@ -10,6 +10,7 @@ speciation: 2.0 periods (or a little less, beef it up a bit)
 
 phylogeny: phylogeny.txt
 
-Morning: All done with speciation
+Morning: Talking about ostriches, hawks and sparrows
 
-Midday: talk about meadowlarks
+Midday: Just asked the ridiculous mosquito questions
+
