@@ -131,10 +131,10 @@ jdpix/%: jdpix
 
 ## Pages
 
-dirs += Bio1M.github.io images
+mdirs += Bio1M.github.io images
 Bio1M += images
-dfiles: $(dirs:%=%/Makefile)
-Sources += $(dirs)
+dfiles: $(mdirs:%=%/Makefile)
+Sources += $(mdirs)
 
 ### Would like to make my own push rules here (like 3SS), so that I can push different kinds of produts to different places. But here they seem to be over-ridden by the rules from unix.mk!
 pushdir = Bio1M.github.io/materials/
