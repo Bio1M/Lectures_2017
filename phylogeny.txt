@@ -62,7 +62,7 @@ Monophyletic group
 
 ----------------------------------------------------------------------
 
-PICSLIDE WIDEFIG Pearson/F_skills/B07_3_alternate_phylo_trees.jpg
+PICSLIDE WIDEFIG Pearson/F_skills/B07_2_phylo_tree_example.jpg
 
 ----------------------------------------------------------------------
 
@@ -263,7 +263,7 @@ TSS Example: the evolution of whales
 	mammals, including the closest group, the artiodactyls
 
 	Early phenetic analyses showed whales in their own group (sisters to
-	artiodactyls
+	artiodactyls)
 
 		Whales lack the distinctive artiodactyl ankle structure (surprise!)
 
@@ -427,9 +427,8 @@ Five kingdoms
 
 	So why has this idea persisted for so long?
 
-		ANS It matches the way the world _looks_
-
-		ANS Animals, plants and fungi dominate _visible_ life
+		ANS It matches the way the world _looks_ -- animals, plants and fungi
+		dominate _visible_ life
 
 		ANS Archaea and bacteria are difficult to tell apart even with a
 		microscope
