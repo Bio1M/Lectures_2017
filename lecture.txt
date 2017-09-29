@@ -4,13 +4,11 @@ ns: 2 periods
 
 processes: 2.5 periods
 
-Start Thu with sexual selection (morning class a bit ahead of this)
-
 speciation: 2.0 periods (or a little less, beef it up a bit)
 
-phylogeny: phylogeny.txt
+phylogeny: 3.0 periods
 
-Morning: Talking about ostriches, hawks and sparrows
+Help!!
 
-Midday: Just asked the ridiculous mosquito questions
+----------------------------------------------------------------------
 

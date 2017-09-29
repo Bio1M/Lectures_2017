@@ -619,7 +619,9 @@ Morphological innovation
 		
 			insects, arachnids, crustaceans \ldots
 
-		The arthropod body plan
+		STRIKE The arthropod body plan
+
+		CORRECTION The {tetrapod} body plan
 		
 			reptiles, mammals \ldots
 
