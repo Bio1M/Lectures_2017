@@ -81,6 +81,15 @@ phylogeny.handouts.pdf: phylogeny.txt
 phylogeny.complete.pdf: phylogeny.txt
 phylogeny.outline.pdf: phylogeny.txt
 
+### Human evolution (maybe break into units later)
+
+humans.draft.pdf: humans.txt
+humans.final.pdf: humans.txt
+humans.handouts.pdf: humans.txt
+humans.complete.pdf: humans.txt
+humans.outline.pdf: humans.txt
+
+
 ######################################################################
 
 ## Not used since importation
@@ -114,12 +123,13 @@ webpix:
 
 Pearson/%: Pearson
 	cd Pearson && $(MAKE) $*
-
 Pearson:
 	/bin/ln -fs ~/Dropbox/courses/1M/Pearson
 
-rePearson:
-	/bin/rm -f Pearson
+norton/%: norton
+	cd norton && $(MAKE) $*
+Pearson:
+	/bin/ln -fs ~/Dropbox/courses/1M/norton
 
 jdpix: 
 	/bin/ln -fs ~/Dropbox/courses/1M/jdpix
