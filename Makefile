@@ -128,7 +128,7 @@ Pearson:
 
 norton/%: norton
 	cd norton && $(MAKE) $*
-Pearson:
+norton:
 	/bin/ln -fs ~/Dropbox/courses/1M/norton
 
 jdpix: 
