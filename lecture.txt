@@ -8,7 +8,7 @@ speciation: 2.0 periods (or a little less, beef it up a bit)
 
 phylogeny: 3.0 periods
 
-Help!!
+
 
 ----------------------------------------------------------------------
 

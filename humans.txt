@@ -1,9 +1,28 @@
  
 
-CHAPTER Drafting
+CHAPTER The evolution of apes
 
 ----------------------------------------------------------------------
 
+TSEC Example
+
+	Humans are an example of a biological species that has evolved
+
+	Possibly of interest, since many of your friends are probably humans
+
+	Humans seem unique:
+
+		How do they differ from other evolved organisms?
+
+		What do they share with other evolved organisms?
+
+----------------------------------------------------------------------
+
+ADDSLIDE Pix of people
+
+----------------------------------------------------------------------
+
+What is different about people?
 
 TSEC Primates | pp.~251--267
 
