@@ -1,4 +1,7 @@
  
+EXTRA Check whether TSS and TSEC add redundancy redundancy to notes.
+
+----------------------------------------------------------------------
 
 CHAPTER The evolution of apes
 
@@ -93,13 +96,123 @@ Timeline | Table 9.1
 
 ----------------------------------------------------------------------
 
-Therapsids | p. 211
+TSS Context for evolution
 
-	Our ancestors radiated and dominated many terrestrial environments 
+	Adaptations build on existing adaptations -- often in unexpected ways
+
+	Evolution does not know where it's going
+
+	In a constant environment, we would have to imagine a species just getting
+	better and better adapted to that environment
+
+		and never getting stuck, e.g. vertebrate eyes
+
+	A changing environment provides opportunities to try new combinations and
+	build in unexpected directions
 
 ----------------------------------------------------------------------
 
-SS Context for evolution
+Physical changes
+
+	Physical changes often provide species with new adaptive challenges and
+	opportunities:
+
+	Global climate change
+
+	Continental drift
+
+	Geological changes
+
+		New environments can arise (e.g., mountain ranges, desert basins)
+
+		Geology may also change connections between two populations without a
+		large effect on how they live
+
+			Rivers changing course
+
+			Mountain ranges separating valley species
+
+			ANS Provides opportunities for allopatric speciation
+
+----------------------------------------------------------------------
+
+Changing ecosystems
+
+	Taxa can be dramatically affected by changes in other taxa
+
+		Due to evolution or to colonization
+
+	Interactions with other organisms are key to most ecological niches
+
+		Who do I eat? Who is trying to eat me? How do I reproduce?
+
+	Coevolution is a key driver of diversity
+
+		Plants evolve new ways to use insects for sex, or vertebrates for
+		dispersal
+
+		Animals evolve new ways to benefit from plant resources
+
+----------------------------------------------------------------------
+
+ADDSLIDE Room for lots of pix here, if time
+
+----------------------------------------------------------------------
+
+
+SS Patterns of diversity
+
+----------------------------------------------------------------------
+
+Therapsids | p. 211
+
+	Our ancestors radiated and dominated many terrestrial environments _before_
+	dinosaurs did
+
+		I have no idea why the book refers to therapsids as reptiles; it seems
+		very wrong:
+
+			ANS If they are, then we are
+
+			ANS One better name would be tetrapods
+
+	Therapsids were largely replaced by dinosaurs in the age of dinosaurs
+
+		But some survived, and one radiated after a mass extinction
+
+----------------------------------------------------------------------
+
+Radiation and contraction
+
+	Many clades seem to go through periods of radiation and contraction
+
+		Gain and then loss of species diversity
+
+	Examples:
+
+		Therapsids, apes, hominins (us)
+
+		NOANS
+
+	Radiation gives many chances for adaptation
+
+		Things that have had radiations may be more likely to persist
+
+		Even after periods of contraction
+
+----------------------------------------------------------------------
+
+Reasons for contraction
+
+	Why might a clade diversify and then suffer many extinctions
+
+		ANS Changing conditions (climate change, continents moving
+
+----------------------------------------------------------------------
+
+Observer bias
+
+----------------------------------------------------------------------
 
 TSEC The evolution of primates | pp.~251--267
 
