@@ -1,0 +1,184 @@
+ 
+
+CHAPTER The evolution of apes
+
+----------------------------------------------------------------------
+
+TSEC Example
+
+	Humans are an example of a biological species that has evolved
+
+	Possibly of interest, since many of your friends are probably humans
+
+	Humans seem unique:
+
+		How do they differ from other evolved organisms?
+
+		What do they share with other evolved organisms?
+
+----------------------------------------------------------------------
+
+ADDSLIDE Pix of people
+
+----------------------------------------------------------------------
+
+Similarities and differences
+
+	What is different about people?
+
+		ANS Complex thoughts
+
+		ANS Culture
+
+		ANS Language
+
+		ANS Technology
+
+	What is the same?
+
+		ANS We're here because our ancestors reproduced
+
+		ANS If reproductive success depends on heritable variation in traits
+		\ldots
+
+			ANS We're still evolving
+
+			ANS Directional selection? Varying selection?
+
+----------------------------------------------------------------------
+
+SEC Patterns of evolution
+
+----------------------------------------------------------------------
+
+History
+
+	There are a _lot_ of steps (and a lot of divergences) between us and the
+	last universal common ancestor of life
+
+	More than 3 billion years ago!
+
+	Some key steps:
+
+		[Eukaryotes]
+
+		[Animals]
+
+		[Vertebrates]
+
+		[Mammals]
+
+		[Primates]
+
+		[Apes]
+
+----------------------------------------------------------------------
+
+TSEC The evolution of primates | pp.~251--267
+
+	Humans are [primates], an ``order" characterized by
+
+		Grasping hands and feet
+
+		Nails and fingertips
+
+		Highly developed [stereroscopic] vision
+
+			Eyes are close together, face forward, and are used together
+
+		Lots of detailed stuff
+
+----------------------------------------------------------------------
+
+Traits
+
+	Freeman Fig 34.40
+
+	What sort of traits to biologists use to characterize a group?
+
+		ANS Derived traits
+
+	How would you interpret the fact that humans don't have grasping
+	feet?
+
+		ANS Secondary loss
+
+----------------------------------------------------------------------
+
+The angiosperm explosion
+
+	Flowering plants diversified very rapidly around 100 [mya] --
+	million years ago
+
+	This radically changed the ecology of the world, and opened up many
+	new niches, apparently including space for primates
+
+		COMMENT Insects were the biggest animal players in this game
+
+----------------------------------------------------------------------
+
+Primate adaptations
+
+	There are a variety of theories for how characteristic primate
+	adaptations evolved
+
+	Each step was likely favored adaptively
+
+	Likely something to do with processing and handling angiosperm fruit
+	and flowers
+
+		Or else the insects that fed on these fruit and flowers
+
+----------------------------------------------------------------------
+
+Getting fed
+
+	A major factor in adaptation is food source.
+
+	The most important strategies for early primates were:
+	
+		[Frugivory]: eating fruits (and sometimes flowers)
+
+		[Folivory]: eating leaves
+
+		[Insectivory]: eating insects
+
+	See HHE Fig. 10.14 for how scientists use teeth to learn about
+	organisms
+
+----------------------------------------------------------------------
+
+Anthropoids
+
+	[Anthropoids] is the sub-group of primates including apes and monkeys
+
+		ANS Monkeys are not a clade!
+
+----------------------------------------------------------------------
+
+TSEC Apes
+
+	[Hominoids] are the great apes (including people)
+
+	Apes are more adapted for swinging through trees, whereas monkeys
+	are more adapted for climbing and leaping
+
+	Apes ``radiated" into many habitats before monkeys did
+
+		Many ape species were apparently later replaced by monkeys
+
+----------------------------------------------------------------------
+
+Patterns of replacement
+
+	Why might apes have diversified, and later been replaced by monkeys?
+
+		ANS Changing climactic conditions
+
+		ANS Changes in plants or insects
+
+		ANS Unpredictable adaptive innovations
+
+	What if the ape radiation had never happened?
+
+		ANS Probably no people

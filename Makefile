@@ -83,11 +83,17 @@ phylogeny.outline.pdf: phylogeny.txt
 
 ### Human evolution (maybe break into units later)
 
-humans.draft.pdf: humans.txt
-humans.final.pdf: humans.txt
-humans.handouts.pdf: humans.txt
-humans.complete.pdf: humans.txt
-humans.outline.pdf: humans.txt
+apes.draft.pdf: apes.txt
+apes.final.pdf: apes.txt
+apes.handouts.pdf: apes.txt
+apes.complete.pdf: apes.txt
+apes.outline.pdf: apes.txt
+
+homo.draft.pdf: homo.txt
+homo.final.pdf: homo.txt
+homo.handouts.pdf: homo.txt
+homo.complete.pdf: homo.txt
+homo.outline.pdf: homo.txt
 
 
 ######################################################################
