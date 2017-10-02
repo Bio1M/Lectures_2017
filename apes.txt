@@ -1,5 +1,9 @@
  
-EXTRA Check whether TSS and TSEC add redundancy redundancy to notes.
+EXTRA 
+
+* _doesn't_ span
+
+
 
 ----------------------------------------------------------------------
 
@@ -146,7 +150,7 @@ Changing ecosystems
 
 		Who do I eat? Who is trying to eat me? How do I reproduce?
 
-	Coevolution is a key driver of diversity
+	Co-evolution is a key driver of diversity. For example:
 
 		Plants evolve new ways to use insects for sex, or vertebrates for
 		dispersal
@@ -158,7 +162,6 @@ Changing ecosystems
 ADDSLIDE Room for lots of pix here, if time
 
 ----------------------------------------------------------------------
-
 
 SS Patterns of diversity
 
@@ -204,13 +207,34 @@ Radiation and contraction
 
 Reasons for contraction
 
-	Why might a clade diversify and then suffer many extinctions
+	Why might a clade diversify and then suffer many extinctions?
 
-		ANS Changing conditions (climate change, continents moving
+		ANS Changing conditions (climate change, continents moving)
+
+		ANS Competition from other clades (apes vs.~monkeys)
+
+		ANS Competition from a successful member (people vs.~other hominins)
 
 ----------------------------------------------------------------------
 
 Observer bias
+
+	One reason we see a lot of clades with a history of radiations may be that
+	those clades are the ones we're looking at
+
+		ANS The clades that are still around
+
+	Clades with a history of radiation may be more successful
+
+		They've explored more kinds of environments
+
+		They're found in more different specific places
+
+			e.g., marsupials in Australia
+
+		They've had more chances to adapt
+
+			May have a few very successful species (like us)
 
 ----------------------------------------------------------------------
 
@@ -220,19 +244,21 @@ TSEC The evolution of primates | pp.~251--267
 
 		Grasping hands and feet
 
-		Nails and fingertips
+		Nails and fingertips (instead of claws)
 
 		Highly developed [stereroscopic] vision
 
 			Eyes are close together, face forward, and are used together
 
-		Lots of detailed stuff
+			Allows 3-d visualization
+
+		Hind-limb dominance
+
+		Large brains
 
 ----------------------------------------------------------------------
 
-Traits
-
-	Freeman Fig 34.40
+Traits | Freeman Fig 34.40
 
 	What sort of traits to biologists use to characterize a group?
 
@@ -253,8 +279,6 @@ The angiosperm explosion
 	This radically changed the ecology of the world, and opened up many
 	new niches, apparently including space for primates
 
-		COMMENT Insects were the biggest animal players in this game
-
 ----------------------------------------------------------------------
 
 Primate adaptations
@@ -271,6 +295,53 @@ Primate adaptations
 
 ----------------------------------------------------------------------
 
+Adaptive theories
+
+	There are many theories for why primate traits might have been adaptively
+	favored in our ancestors
+
+		Leaping from branch to branch
+
+		Climbing and balancing on trees
+
+		Exploiting new plant resources
+
+		Catching insects
+
+		[Adaptive foraging]: the ability to switch between types of food, and to
+		learn to use new types of food
+
+----------------------------------------------------------------------
+
+Patterns of adaptation
+
+	These strategies may have evolved sequentially
+
+		Maybe exploiting tree resources came first, but similar traits helped
+		some species later catch insects
+
+		Maybe traits evolved for one specific purpose later became useful for
+		adaptive foraging
+
+----------------------------------------------------------------------
+
+Sociality
+
+	A big component of fitness may be based on co-operating with (or at least
+	being tolerated by) [conspecifics] -- other members of your species
+
+	Brains that evolved for complicated foraging may have also been useful for
+	social skills
+
+	Looping: once sociality was present, adaptation for social thinking and
+	thinking about food may have interacted to increase selection for brain size
+
+----------------------------------------------------------------------
+
+SS Tools for learning about the past
+
+----------------------------------------------------------------------
+
 Getting fed
 
 	A major factor in adaptation is food source.
@@ -283,33 +354,166 @@ Getting fed
 
 		[Insectivory]: eating insects
 
-	See HHE Fig. 10.14 for how scientists use teeth to learn about
-	organisms
+----------------------------------------------------------------------
+
+Teeth | Fig 9.15
+
+	Teeth are very important for processing food
+
+	Why do we have wisdom teeth?
+
+		ANS An adaptation to make it more likely we will have functional teeth in
+		middle age
+
+		ANS This is probably also why we have two sets of teeth
+
+	Teeth help scientists understand what extinct animals ate
+
+		Well preserved, highly adapted
+
+----------------------------------------------------------------------
+
+ADDSLIDE F9.15
+
+----------------------------------------------------------------------
+
+Eyes 
+
+	Eye [orbits] are the skeletal cavities where eyes are
+
+	Orbits tell us size, shape and position of eyes from fossil animals
+
+	What are the advantages and disadvantages of more forward-facing eyes?
+
+		ANS Better for precise tasks, three-dimensional visualization
+
+		ANS Not as good for looking around, being alert
+
+	What are the advantages and disadvantages of larger eyes?
+
+		ANS Better for night vision
+
+		ANS More costly? Better for day vision?
+
+----------------------------------------------------------------------
+
+ADDSLIDE Eye cavity pictures
+
+----------------------------------------------------------------------
+
+Sexual dimorphism
+
+	Information about differences between males and females has implications
+	about social structure and mating patterns
+
+		In species where there is more variation in male success (less bonding in
+		pairs), we expect:
+
+			ANS More sexual dimorphism
+
+			ANS More competition between males for females
+
+----------------------------------------------------------------------
+
+Dimorphism and sexual strategies
+
+	Gorillas live in male-centered groups (one adult male, several adult females)
+
+	Chimpanzees live in large, well-mixed groups with lots of interactions
+	between males and females
+
+	Which species should have more sexual dimorphism overall?
+
+		ANS Gorillas. Males are huge and strong and compete for females by displaying and fighting. A dominant male has exclusive access to a group of females
+
+	Which species should have larger male genitals?
+
+		ANS Chimpanzees have much larger genitals. Gorillas don't use genitals as part of sexual competition
+
+	What about humans?
+
+		COMMENT I am not writing this one down
+
+----------------------------------------------------------------------
+
+SS Challenges in learning about the past
+
+----------------------------------------------------------------------
+
+ADDSLIDE 9.10, 9.11
+
+
+----------------------------------------------------------------------
+
+Interpreting fossil traits
+
+	There is lots of ongoing debate about relationships between extinct primates
+	| pp.218-220, 226-228, elsewhere
+
+	We know a lot know about omomyids and adapids
+
+	How do we not know how they relate to modern primates?
+
+		ANS Convergent evolution
+
+
+----------------------------------------------------------------------
+
+What was where when? | Fig 9.19
+
+	When are two specimens from the same species?
+
+	How do we learn clues to tell _sexes_ apart, and recognize which dimorphic
+	individuals are from the same species?
+
+	How do we know what fossils we \emph{didn't} find?
+
+----------------------------------------------------------------------
+
+ADDSLIDE F9.19
+
+----------------------------------------------------------------------
+
+SEC The evolution of apes
 
 ----------------------------------------------------------------------
 
 Anthropoids
 
+BCC
+
 	[Anthropoids] is the sub-group of primates including apes and monkeys
 
 		ANS Monkeys are not a clade!
 
+NCC
+
+	ADD Freeman phylogeny?
+
+EC
+
 ----------------------------------------------------------------------
 
-TSEC Apes
-
-	[Hominoids] are the great apes (including people)
+Ape adaptations | p.228
 
 	Apes are more adapted for swinging through trees, whereas monkeys
 	are more adapted for climbing and leaping
 
-	Apes ``radiated" into many habitats before monkeys did
+	More upright
 
-		Many ape species were apparently later replaced by monkeys
+	Better at hanging, and worse at sitting
+
+	Lots of missing pieces of the puzzle
+
+		There may be a lot of convergent evolution and secondary loss going on
 
 ----------------------------------------------------------------------
 
 Patterns of replacement
+
+	Apes ``radiated" into many habitats before monkeys did
+
+		Many ape species were apparently later replaced by monkeys
 
 	Why might apes have diversified, and later been replaced by monkeys?
 
@@ -322,3 +526,36 @@ Patterns of replacement
 	What if the ape radiation had never happened?
 
 		ANS Probably no people
+
+----------------------------------------------------------------------
+
+Summary
+
+	People have important differences from other organisms
+
+	We got here using the same rules of natural selection as everyone else
+
+		Things may be different _now_, but even that is not so clear
+
+	Adaptation does not move in a straight line
+
+		Changing conditions lead to opportunities for new adaptations
+
+		New adaptations _themselves_ can be an important cause of changing
+		conditions
+
+			Innovations, or co-evolution with other taxa
+
+----------------------------------------------------------------------
+
+Learning about evolution
+
+	Understanding the course of evolution is an important part of understanding
+	how things work now
+
+		How organisms work, and how ecosystems work
+
+	There are many challenges:
+
+		Timelines, identification, convergent evolution
+
