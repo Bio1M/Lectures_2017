@@ -3,8 +3,6 @@ EXTRA
 
 * _doesn't_ span
 
-
-
 ----------------------------------------------------------------------
 
 CHAPTER The evolution of apes
@@ -25,7 +23,7 @@ TSEC Example
 
 ----------------------------------------------------------------------
 
-ADDSLIDE Pix of people
+PIC WIDEFIG jdpix/crowd.jpg
 
 ----------------------------------------------------------------------
 
@@ -81,7 +79,7 @@ History
 
 ----------------------------------------------------------------------
 
-ADDSLIDE T9.1
+PIC HIGHFIG norton/ch09/TAB09_01.jpg
 
 ----------------------------------------------------------------------
 
@@ -140,6 +138,14 @@ Physical changes
 
 ----------------------------------------------------------------------
 
+PIC WIDEFIG norton/ch09/09_04.jpg
+
+----------------------------------------------------------------------
+
+PIC WIDEFIG norton/ch09/09_05.jpg
+
+----------------------------------------------------------------------
+
 Changing ecosystems
 
 	Taxa can be dramatically affected by changes in other taxa
@@ -159,7 +165,11 @@ Changing ecosystems
 
 ----------------------------------------------------------------------
 
-ADDSLIDE Room for lots of pix here, if time
+WIDEPIC webpix/hummingbird.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/fig_wasps.jpg
 
 ----------------------------------------------------------------------
 
@@ -175,7 +185,7 @@ Therapsids | p. 211
 		I have no idea why the book refers to therapsids as reptiles; it seems
 		very wrong:
 
-			ANS If they are, then we are
+			ANS If they were, then we are
 
 			ANS One better name would be tetrapods
 
@@ -256,6 +266,11 @@ TSEC The evolution of primates | pp.~251--267
 
 		Large brains
 
+
+----------------------------------------------------------------------
+
+PIC HIGHFIG Pearson/F35_deutero/35_36_primate_phylogeny.jpg
+
 ----------------------------------------------------------------------
 
 Traits | Freeman Fig 34.40
@@ -323,6 +338,8 @@ Patterns of adaptation
 		Maybe traits evolved for one specific purpose later became useful for
 		adaptive foraging
 
+			CORRECTION *which evolved
+
 ----------------------------------------------------------------------
 
 Sociality
@@ -373,7 +390,7 @@ Teeth | Fig 9.15
 
 ----------------------------------------------------------------------
 
-ADDSLIDE F9.15
+PIC WIDEFIG norton/ch09/09_15.jpg
 
 ----------------------------------------------------------------------
 
@@ -397,7 +414,15 @@ Eyes
 
 ----------------------------------------------------------------------
 
-ADDSLIDE Eye cavity pictures
+HIGHPIC webpix/orbit.png
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/leopard_skull.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/antelope_skull.jpg
 
 ----------------------------------------------------------------------
 
@@ -415,6 +440,14 @@ Sexual dimorphism
 
 ----------------------------------------------------------------------
 
+WIDEPIC webpix/gorillas.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/bonobos.jpg
+
+----------------------------------------------------------------------
+
 Dimorphism and sexual strategies
 
 	Gorillas live in male-centered groups (one adult male, several adult females)
@@ -428,7 +461,9 @@ Dimorphism and sexual strategies
 
 	Which species should have larger male genitals?
 
-		ANS Chimpanzees have much larger genitals. Gorillas don't use genitals as part of sexual competition
+		ANS Chimpanzees have much larger genitals.
+		
+		ANS Gorillas don't use genitals as part of sexual competition
 
 	What about humans?
 
@@ -440,8 +475,11 @@ SS Challenges in learning about the past
 
 ----------------------------------------------------------------------
 
-ADDSLIDE 9.10, 9.11
+PIC WIDEFIG norton/ch09/09_10.jpg
 
+----------------------------------------------------------------------
+
+PIC WIDEFIG norton/ch09/09_11.jpg
 
 ----------------------------------------------------------------------
 
@@ -470,7 +508,7 @@ What was where when? | Fig 9.19
 
 ----------------------------------------------------------------------
 
-ADDSLIDE F9.19
+PIC WIDEFIG norton/ch09/09_19.jpg
 
 ----------------------------------------------------------------------
 
@@ -488,7 +526,7 @@ BCC
 
 NCC
 
-	ADD Freeman phylogeny?
+SIDEFIG Pearson/F35_deutero/35_36_primate_phylogeny.jpg
 
 EC
 
