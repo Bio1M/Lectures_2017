@@ -338,6 +338,8 @@ Patterns of adaptation
 		Maybe traits evolved for one specific purpose later became useful for
 		adaptive foraging
 
+			CORRECTION *which evolved
+
 ----------------------------------------------------------------------
 
 Sociality
@@ -459,7 +461,9 @@ Dimorphism and sexual strategies
 
 	Which species should have larger male genitals?
 
-		ANS Chimpanzees have much larger genitals. Gorillas don't use genitals as part of sexual competition
+		ANS Chimpanzees have much larger genitals.
+		
+		ANS Gorillas don't use genitals as part of sexual competition
 
 	What about humans?
 
