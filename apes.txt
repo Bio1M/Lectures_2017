@@ -269,7 +269,7 @@ TSEC The evolution of primates | pp.~251--267
 
 ----------------------------------------------------------------------
 
-PIC HIGHFIG Pearson/F35_deutero/35_36_primate_phylogeny.jpg
+HIGHPIC Pearson/F35_deutero/35_36_primate_phylogeny.jpg
 
 ----------------------------------------------------------------------
 
@@ -293,6 +293,14 @@ The angiosperm explosion
 
 	This radically changed the ecology of the world, and opened up many
 	new niches, apparently including space for primates
+
+----------------------------------------------------------------------
+
+HIGHPIC webpix/pine_forest.jpg
+
+----------------------------------------------------------------------
+
+WIDEPIC webpix/mixed_forest.jpg
 
 ----------------------------------------------------------------------
 
@@ -479,7 +487,7 @@ PIC WIDEFIG norton/ch09/09_10.jpg
 
 ----------------------------------------------------------------------
 
-PIC WIDEFIG norton/ch09/09_11.jpg
+HIGHPIC norton/ch09/09_11.jpg
 
 ----------------------------------------------------------------------
 
@@ -532,6 +540,10 @@ EC
 
 ----------------------------------------------------------------------
 
+HIGHPIC Pearson/F35_deutero/35_36_primate_phylogeny.jpg
+
+----------------------------------------------------------------------
+
 Ape adaptations | p.228
 
 	Apes are more adapted for swinging through trees, whereas monkeys
@@ -557,7 +569,11 @@ Patterns of replacement
 
 		ANS Changing climactic conditions
 
+		ANS Changes in plants or insects
 
+		ANS Unpredictable adaptive innovations
+
+	What if the ape radiation had never happened?
 
 		ANS Probably no people
 
