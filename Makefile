@@ -89,6 +89,11 @@ apes.handouts.pdf: apes.txt
 apes.complete.pdf: apes.txt
 apes.outline.pdf: apes.txt
 
+midterm1.txt: apes.txt Makefile
+	perl -npe "last if /Challenges/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
+
+midterm1.complete.pdf: apes.txt
+
 homo.draft.pdf: homo.txt
 homo.final.pdf: homo.txt
 homo.handouts.pdf: homo.txt
