@@ -6,7 +6,11 @@ processes: 2.5 periods
 
 speciation: 2.0 periods (or a little less, beef it up a bit)
 
-phylogeny: 3.0 periods
+phylogeny: 3.0 periods 
+
+apes: 2.2 periods
+
+review and tech: 2 periods
 
 
 
