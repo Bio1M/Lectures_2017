@@ -1,3 +1,8 @@
+
+CHAPTER Hominins and early humans
+
+----------------------------------------------------------------------
+
 TSEC Hominins | pp.~295-302
 
 	[Hominins] refer to people and our upright ancestors
@@ -10,7 +15,77 @@ TSEC Hominins | pp.~295-302
 
 ----------------------------------------------------------------------
 
-Upright posture
+Taxonomy | \url{https://en.wikipedia.org/wiki/Hominini}
+
+BCC
+
+SIDEFIG webpix/homininae.png
+
+NCC
+
+	Homonoidea, Hominidae, Hominininae, Hominini, Hominina, Homo
+
+	Why so much detailed splitting?
+
+		ANS We're a little bit full of ourselves
+
+		ANS Observer bias
+
+EC
+
+----------------------------------------------------------------------
+
+Putting together the puzzle
+
+	What did our common ancestor with chimpanzees look like?
+
+	Which fossils are related to which other fossils?
+
+	The key is which features are reliable indicators of relatedness?
+
+		ANS How do we tell the difference between convergence and homology?
+
+		ANS It's all in the details
+
+----------------------------------------------------------------------
+
+Evaluating evidence
+
+	There are a lot of theories and a great deal of expertise
+
+	But expertise can also lead to over-confidence
+
+	As with other examples, we try to make and test theories
+
+		ANS Make predictions about things that haven't been seen yet
+
+----------------------------------------------------------------------
+
+Apelike ancestors | Fig 10.4-5
+
+	Were our ancestors more like us, or more like apes?
+
+		ANS We _are_ apes, if apes are a clade; both books make this mistake
+
+			ANS They also make a similar mistake with hominoids
+
+		ANS Among living apes, the closest _relatives_ of our ancestors is us
+
+		ANS In some important ways, we have evolved more than chimpanzees have
+
+		ANS But chimpanzees have probably evolved more than we assume
+
+			ANS It is hard for us to study ourselves 
+
+			ANS Observer bias
+
+----------------------------------------------------------------------
+
+ADD observer bias cartoon
+
+----------------------------------------------------------------------
+
+TSS Upright posture | Fig 10.11-12
 
 	How did upright posture and upright walking evolve?
 	
@@ -30,6 +105,10 @@ Upright posture
 
 ----------------------------------------------------------------------
 
+ADD Figs
+
+----------------------------------------------------------------------
+
 Gradual evolution
 
 	Hominins' evolution of upright posture was likely dependent on
@@ -41,6 +120,16 @@ Gradual evolution
 		Carrying and storing things
 
 		Making and using tools
+
+----------------------------------------------------------------------
+
+Studying evolution
+
+	Skeletons
+	
+		knees, hips, backs, skulls all provide evidence about posture
+
+		teeth and jaws provide evidence about diet
 
 ----------------------------------------------------------------------
 
@@ -64,6 +153,49 @@ TSS Complex foraging | pp.~308--314
 
 ----------------------------------------------------------------------
 
+Back and forth evolution | Fig 10.4-5
+
+	Very early hominins (6 mya) had facial and dental features that were similar
+	to later hominins (2 mya)
+
+		Less similar to chimpanzees
+
+		But also less similar to _Australopiths_ (3 mya)
+
+	Is this surprising?
+
+		ANS Radiation and contraction
+
+		ANS Changing conditions
+
+			ANS Evolution is not goal-oriented
+
+----------------------------------------------------------------------
+
+ADD Ancestor pix
+
+----------------------------------------------------------------------
+
+Hominin phylogenies | Fig 10.37
+
+	Hominins had a large number of speciation and extinction events
+
+		ANS Radiation and contraction
+
+	The tree is not well understood, despite intensive study
+
+		ANS Changing environments and convergent evolution
+
+----------------------------------------------------------------------
+
+ADDSLIDE
+
+----------------------------------------------------------------------
+
+SEC Sociality
+
+----------------------------------------------------------------------
+
 Complex foraging and co-operation
 
 	Complex foraging may have promoted co-operation between females and
@@ -72,6 +204,9 @@ Complex foraging and co-operation
 
 	It may have promoted co-operation between people with different
 	skills, since they might have access to food at different times
+
+	It may have promoted co-operation among hunters, since hunting success is
+	highly variable
 
 	It may have promoted co-operation in teaching and learning
 
@@ -101,215 +236,11 @@ Complex foraging and gender roles
 
 ----------------------------------------------------------------------
 
-SS Clues to evolution | pp. 365--367
+Social behaviour
 
 ----------------------------------------------------------------------
 
-Lots of missing steps!
-
-	Obviously, there is a long way to go from an ape that learns to walk
-	upright, to people with complex brains, and advanced language
-
-	Lots of fascinating research about these steps
-
-	Cool details in your book (e.g., Ch.~13)
-
-	Adaptation and natural selection are an important key to unravelling
-	these mysteries
+TSEC Tool making
 
 ----------------------------------------------------------------------
-
-Comparing genes
-
-	Scientists look for patterns of evolution by comparing DNA sequences
-	between mice, chimpanzees and people
-
-		Why are mice needed?
-
-		ANS So we can guess whether chimpanzees or humans changed
-
-		ANS It doesn't matter that we're not always right, we're looking
-		for _patterns_
-
-	Many changes are random: how should we identify genes that have been
-	subject to natural selection
-
-		ANS Look for genes where most of the DNA changes correspond to
-		amino acid changes: that is, more non-synonymous than synonymous
-		substitutions
-
-		COMMENT Again, we won't always be right about each gene
-
-----------------------------------------------------------------------
-
-Gene comparison results
-
-	Proteins in several categories seem to have been under a lot of
-	natural selection
-
-		Smell: humans have evolved to rely less on smell
-
-		Hearing: not clear, but humans likely evolved changes relating to
-		language processing
-
-		Metabolism: probably having to do with the fact that humans eat
-		more meat than our ancestors
-
-		Development: many possibilities, could be related to long
-		childhoods
-
-		ANS Is it strange that brain genes don't come up here?
-
-----------------------------------------------------------------------
-
-Gene expression
-
-	Organisms are complicated, with genes controlling other genes in a
-	variety of ways
-
-	An emerging, very cool, way to study organisms is with gene
-	[expression]: gene expression studies measure messenger RNAs used to
-	convert genes into proteins.
-
-		Expression changes are largely due to genetic changes
-		
-		Probably small genetic changes that we didn't find in gene
-		comparison studies, but which have large effects
-
-	Gene expression studies show huge changes in the human brain
-
-	HHE Fig 14.3
-
-----------------------------------------------------------------------
-
-TSEC Modern humans
-
-	Characterized by small face and teeth
-
-	Less robust skeletal structure
-
-	Evolved in Africa around 200 [kya] (thousand years ago)
-
-	Took over most of the world in the last 50,000 years
-
-----------------------------------------------------------------------
-
-European bias
-
-	A huge amount of study of human evolution has taken place in Europe
-
-		Also a huge number of archaeological sites
-
-	Much of what we know is biased towards Europe
-
-		Some theories may be affected by this bias as well
-
-		A great deal is known about Neanderthals, but it's not clear how
-		important they were
-
-----------------------------------------------------------------------
-
-TSS Genetic studies | pp. 376--385
-
-	We are all extremely closely related (HHE Fig. 14.13)
-
-		Humans are closer to humans than chimpanzees are to chimpanzees
-
-		Differences within groups of humans are bigger than differences
-		between groups
-
-	What does this mean?
-
-		ANS The difference between _random_ humans within a group is
-		bigger than the difference between _average_ humans between
-		groups
-
-	This is not true for chimpanzees
-
-----------------------------------------------------------------------
-
-Why do we _feel_ different?
-
-	We perceive large differences between and within human groups, but
-	in fact these differences are very small genetically
-
-	Why might the differences seem so large?
-
-		ANS We might understand people better than we understand other
-		organisms
-
-		ANS The differences might be apparent because they're on the
-		surface
-
-			ANS Humans are present in a wider range of environments than
-			our relatives
-
-		ANS The differences might be apparent because they relate to
-		observable skills and abilities
-
-			ANS Relates to complex foraging: rare skills may provide a
-			larger fitness advantage than common skills
-
-----------------------------------------------------------------------
-
-Genetic bottleneck
-
-	The variation in human mitochondria is what would be expected from a
-	stable population of about 5,000 individuals
-
-		Do we expect more variation, or less, in a smaller population?
-
-	We evolved from a small group of ancestors not too long ago
-
-		This is likely due to some genetic innovation that led to the
-		success of modern humans
-
-		Actual population may never have been extremely small; just that
-		most of the successful genes came from a small number of people
-
-----------------------------------------------------------------------
-
-Geographic origin
-
-	We are all very closely related
-
-	But non-Africans are closer together than Africans
-
-	Consistent with the idea that a subgroup of modern humans spread from
-	Africa around the world
-
-	HHE Fig. 14.17
-
-----------------------------------------------------------------------
-
-TSS Why are we here? | pp.~390--398
-
-	Modern humans arose around 200 kya, but took over the world around 50
-	kya
-
-	What happened?
-
-		A sudden evolutionary change?
-
-		A sudden cultural change?
-
-		Gradual evolutionary and cultural change?
-
-----------------------------------------------------------------------
-
-Modern human behaviour
-
-	Modern humans have several characteristic behaviours
-
-		Sophisticated tools, particularly fine stone that was apparently
-		mounted on handles
-
-		Trade
-
-		Hunting large and dangerous game
-
-		Seasonal foraging
-
-	Scientists still debate when and how these arose
-
 

@@ -100,7 +100,6 @@ homo.handouts.pdf: homo.txt
 homo.complete.pdf: homo.txt
 homo.outline.pdf: homo.txt
 
-
 ######################################################################
 
 ## Not used since importation
