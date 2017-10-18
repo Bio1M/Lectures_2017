@@ -1,4 +1,4 @@
- 
+
 EXTRA 
 
 * _doesn't_ span
@@ -248,7 +248,9 @@ Observer bias
 
 ----------------------------------------------------------------------
 
-TSEC The evolution of primates | pp.~251--267
+TSEC The evolution of primates 
+
+	CORRECTION Read pp. 218-220
 
 	Humans are [primates], an ``order" characterized by
 
@@ -501,7 +503,6 @@ Interpreting fossil traits
 	How do we not know how they relate to modern primates?
 
 		ANS Convergent evolution
-
 
 ----------------------------------------------------------------------
 
