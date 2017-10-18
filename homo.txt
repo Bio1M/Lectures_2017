@@ -114,12 +114,17 @@ Gradual evolution
 	Hominins' evolution of upright posture was likely dependent on
 	evolutionary history and circumstance
 
+		Built on previous adaptations
+
 	Evolution of upright posture almost certainly led to further
 	evolutionary change:
 
 		Carrying and storing things
 
 		Making and using tools
+
+	There should be lots of "loops" -- changes leading to other changes -- to
+	explain how dramatically our ancestors evolved
 
 ----------------------------------------------------------------------
 
@@ -238,9 +243,327 @@ Complex foraging and gender roles
 
 Social behaviour
 
+	As behaviour becomes more social, a wide variety of other adaptations may become available
+
+		Mostly related to thinking and communication
+
+	Leading to more opportunities for looping:
+
+		ANS Bigger brains may facilitate more food-gathering and survival
+		strategies
+
+		ANS Communication may favor co-operation
+
+----------------------------------------------------------------------
+
+How social were early hominins?
+
+	What kind of clues might be available?
+
+		ANS Sexual dimorphism
+
+		ANS Physical structures consistent with vocal communication
+
+		ANS Dental enamel
+
+----------------------------------------------------------------------
+
+Sexual dimorphism
+
+	The extent of sexual dimorphism tells us at least something about social
+	structures
+
+		ANS Large amounts of sexual dimorphism probably mean less sociality and co-operation
+
+		ANS At least among adult males
+
+	How do we know whose bones are male and female?
+
+		ANS [Pelvises] (hip bones) are very different in all of our ancestors
+
+		ANS Because childbirth
+
+	How do we know whose teeth are male and female?
+
+		ANS We don't, usually
+
+		ANS Bimodality can tell us about dimorphism anyway
+
+----------------------------------------------------------------------
+
+Bimodality | Fig 10.9
+
+	Bimodality means having two peaks in a distribution
+
+		For example, a modern human height distribution would have a peak for
+		men, and a peak for women
+
+	If traits are strongly dimorphic, we should be able to tell by sampling, even if we don't know which teeth come from men and which from women
+
+----------------------------------------------------------------------
+
+ADD Picture
+
+----------------------------------------------------------------------
+
+
+Rate of development
+
+	Why do human children develop _so_ slowly?
+
+		ANS Presumably related to elaborate sociality
+
+	We are therefore very interested in how long it took our ancestors to mature
+
+	Some clues are available
+
+		Dental enamel
+
+		Molar development
+
+	But it's a hard problem
+
+----------------------------------------------------------------------
+
+ADD Horse pix
+
 ----------------------------------------------------------------------
 
 TSEC Tool making
 
+	Several species can make tools, but only people make tools that can project
+	lectures directly from a computer onto a screen 
+
+		COMMENT Which is awesome
+
+	More broadly, hominins make far more sophisticated tools than non-hominins do
+
 ----------------------------------------------------------------------
 
+Other species
+
+	What other animals make tools?
+
+	Not counting programmed behaviours (spiky nests, ant traps)
+
+		ANS Chimpanzees, orangutans
+
+		ANS Elephants
+
+		ANS Crows!
+
+----------------------------------------------------------------------
+
+Looping
+
+	Tool making is likely an important part of the "loop" that provided many
+	opportunities for new adaptations along the hominin tree
+
+	Others include:
+
+		ANS Complex foraging
+
+		ANS Sociality
+
+		ANS Communication
+
+	All these things probably interacted with and encouraged each other along
+	the way
+
+----------------------------------------------------------------------
+
+Difficulties | Fig 11.2
+
+	We find _amazing_ stone tools from 2-3.5 mya
+
+		[Oldowan tools]
+
+	It's hard to know who made them and used them
+
+		ANS Stone keeps better than bone
+
+	It's hard to figure out how they were used
+
+----------------------------------------------------------------------
+
+Active science | Closer Look 11.1
+
+	Scientists have practiced _making_ and _using_ tools similar to the Oldowan
+	tools
+
+	Surprising conclusions:
+
+		Cores are made by striking off flakes
+
+			Flakes are probably more useful than cores, maybe the cores are just
+			leftovers
+
+		Spheroids may be discarded hammers
+
+		Tool makers were mostly right-handed
+
+----------------------------------------------------------------------
+
+TSS Tools and adaptation
+
+	Tools opened up new strategies that likely favored co-operation,
+	communication and culture:
+
+		Hunting and scavenging with weapons
+
+		Advanced foraging
+
+----------------------------------------------------------------------
+
+Active science | pp. 270-273
+
+	Scientists lived with, and attempted to learn from, remaining forage-based
+	societies
+
+		Skills are very detailed, and take a long time to develop
+
+		Possible support for looping with culture and language
+
+	What can we learn from modern humans about our ancestors?
+
+		ANS It's complicated
+
+		ANS A lot of evolution has happened since then, and it's hard to figure out which parts are how relevant
+
+----------------------------------------------------------------------
+
+Scavenging
+
+	[Scavenging] is eating meat that is found, or taken from predators
+
+	Evidence of early hominins [butchering] large animals including elephants
+	raises the question of whether they were hunting or scavenging
+
+		It's not so easy to kill an elephant
+
+		Could they have had techniques or tools we don't know about?
+
+----------------------------------------------------------------------
+
+Scavenging and hunting
+
+	Scavenging and hunting are complementary activities
+
+		Most hunters scavenge
+
+		Most mammalian scavengers hunt
+
+	Our ancestors probably did both
+
+	Scavenging requires the ability to:
+
+		Take kills from other predators, or
+
+		Use resources others can't use
+
+----------------------------------------------------------------------
+
+Tools for scavenging and hunting
+
+	Some tools may have been used as weapons
+
+		For killing prey, or for fighting off other carnivovers
+
+		There is no evidence of this
+
+	Tools could be used to process leftovers
+
+		ANS Cracking large bones for marrow, for example
+
+----------------------------------------------------------------------
+
+Tools for complex foraging
+
+	Tools and knowledge can make a wide range of food sources available
+
+		Colonial insect resources
+
+		Deeply buried plant resources
+
+		Poisonous things that can be processed
+
+----------------------------------------------------------------------
+
+SEC Humans
+
+----------------------------------------------------------------------
+
+Radiation and contraction
+
+	Early humans replaced other hominins starting about 2 mya
+
+	Modern humans replaced other humans starting about 0.2 mya
+
+		ANS Probably through competition
+
+		ANS But we still don't know all of the reasons
+
+	Both early and modern humans evolved in Africa and spread from there
+
+----------------------------------------------------------------------
+
+Early humans | Fig 12.8
+
+	Acheulean industry lasted almost 1 million years
+
+	It took people longer to move on from Acheulean industry than to move from
+	Acheulean industry to self-driving cars!
+
+----------------------------------------------------------------------
+
+Modern humans
+
+	Characterized by small face and teeth
+
+	Less robust skeletal structure
+
+	Evolved in Africa around 200 [kya] (thousand years ago)
+
+	Took over most of the world in the last 50,000 years
+
+----------------------------------------------------------------------
+
+Why are we here?
+
+	Modern humans arose around 200 kya, but took over the world around 50
+	kya
+
+	What happened?
+
+		A sudden evolutionary change?
+
+		Gradual evolutionary change?
+
+			ANS Why don't we see evidence?
+
+			ANS Might be about our brains, and not reflected in fossils
+
+		A sudden cultural change?
+
+		Gradual cultural change?
+
+----------------------------------------------------------------------
+
+Summary
+
+	People evolved by the same basic rules as other organisms
+
+		ANS Adaptation by natural selection
+
+	Followed a very different path
+
+		ANS Strong loops that continually created new adaptive opportunities
+
+	There is a lot we can learn about ourselves from biology
+
+		ANS We are affected by all of the same basic processes as other organisms
+
+	And also a lot that we can't learn
+
+		ANS We are also strongly affected by our complex brains (and complex
+		cultures) 
