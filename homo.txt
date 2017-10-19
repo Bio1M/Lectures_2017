@@ -81,7 +81,9 @@ Apelike ancestors | Fig 10.4-5
 
 ----------------------------------------------------------------------
 
-ADD observer bias cartoon
+Observer bias
+
+PIC FIG jdpix/bias.png
 
 ----------------------------------------------------------------------
 
@@ -105,7 +107,16 @@ TSS Upright posture | Fig 10.11-12
 
 ----------------------------------------------------------------------
 
-ADD Figs
+PICSLIDE
+
+PIC FIG norton/ch10/10_11.jpg
+
+----------------------------------------------------------------------
+
+
+PICSLIDE
+
+PIC HIGHFIG norton/ch10/10_12.jpg
 
 ----------------------------------------------------------------------
 
@@ -123,7 +134,7 @@ Gradual evolution
 
 		Making and using tools
 
-	There should be lots of "loops" -- changes leading to other changes -- to
+	There should be lots of ``loops" -- changes leading to other changes -- to
 	explain how dramatically our ancestors evolved
 
 ----------------------------------------------------------------------
@@ -185,7 +196,9 @@ Back and forth evolution | Fig 10.4-5
 
 ----------------------------------------------------------------------
 
-ADD Ancestor pix
+PICSLIDE
+
+PIC FIG norton/ch10/10_04.jpg
 
 ----------------------------------------------------------------------
 
@@ -201,7 +214,9 @@ Hominin phylogenies | Fig 10.37
 
 ----------------------------------------------------------------------
 
-ADDSLIDE
+PICSLIDE
+
+PIC FIG norton/ch10/10_37.jpg
 
 ----------------------------------------------------------------------
 
@@ -310,10 +325,23 @@ Bimodality | Fig 10.9
 
 ----------------------------------------------------------------------
 
-ADD Picture
+PICSLIDE
+
+PIC WIDEFIG norton/ch10/10_09.jpg
 
 ----------------------------------------------------------------------
 
+PICSLIDE
+
+PIC HIGHFIG jdpix/heights.Rout-0.pdf
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC HIGHFIG jdpix/heights.Rout-1.pdf
+
+----------------------------------------------------------------------
 
 Rate of development
 
@@ -333,7 +361,9 @@ Rate of development
 
 ----------------------------------------------------------------------
 
-ADD Horse pix
+PICSLIDE
+
+WIDEPIC webpix/horse.jpg
 
 ----------------------------------------------------------------------
 
@@ -364,7 +394,7 @@ Other species
 
 Looping
 
-	Tool making is likely an important part of the "loop" that provided many
+	Tool making is likely an important part of the ``loop" that provided many
 	opportunities for new adaptations along the hominin tree
 
 	Others include:

@@ -89,6 +89,7 @@ apes.handouts.pdf: apes.txt
 apes.complete.pdf: apes.txt
 apes.outline.pdf: apes.txt
 
+## A special file to make complete notes for the test
 midterm1.txt: apes.txt Makefile
 	perl -npe "last if /Challenges/" $< | perl -npe "s/CHAPTER.*/CHAPTER Midterm 1 extra notes/" > $@
 
