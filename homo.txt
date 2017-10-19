@@ -1,5 +1,5 @@
 
-CHAPTER Hominins and early humans
+CHAPTER Hominins
 
 ----------------------------------------------------------------------
 
@@ -130,11 +130,19 @@ Gradual evolution
 
 Studying evolution
 
-	Skeletons
-	
+	Evidence from fossils
+
 		knees, hips, backs, skulls all provide evidence about posture
 
 		teeth and jaws provide evidence about diet
+
+	Evidence from archaeology
+
+		hominin fossils may be found in particular placess
+		
+		associated with fossils from things that hominins used to eat
+
+		or with tools
 
 ----------------------------------------------------------------------
 
@@ -152,7 +160,7 @@ TSS Complex foraging | pp.~308--314
 
 		ANS Big brains
 
-		ANS male-female co-operation
+		ANS co-operation, including male-female co-operation
 
 		ANS Social behaviour
 
@@ -395,8 +403,9 @@ Active science | Closer Look 11.1
 
 		Cores are made by striking off flakes
 
-			Flakes are probably more useful than cores, maybe the cores are just
-			leftovers
+			Flakes are surprisingly useful 
+			
+			cores may just be leftovers
 
 		Spheroids may be discarded hammers
 
