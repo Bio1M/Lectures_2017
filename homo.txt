@@ -392,6 +392,12 @@ Other species
 
 ----------------------------------------------------------------------
 
+PICSLIDE
+
+WIDEFIG webpix/crow_hook.png
+
+----------------------------------------------------------------------
+
 Looping
 
 	Tool making is likely an important part of the ``loop" that provided many
@@ -421,6 +427,12 @@ Difficulties | Fig 11.2
 		ANS Stone keeps better than bone
 
 	It's hard to figure out how they were used
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC FIG norton/ch11/11_02.jpg
 
 ----------------------------------------------------------------------
 
@@ -552,6 +564,12 @@ Early humans | Fig 12.8
 
 	It took people longer to move on from Acheulean industry than to move from
 	Acheulean industry to self-driving cars!
+
+----------------------------------------------------------------------
+
+PICSLIDE
+
+PIC FIG norton/ch12/12_08.jpg
 
 ----------------------------------------------------------------------
 
