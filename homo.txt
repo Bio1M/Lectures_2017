@@ -3,7 +3,9 @@ CHAPTER Hominins
 
 ----------------------------------------------------------------------
 
-TSEC Hominins | pp.~295-302
+TSEC Hominins 
+
+	CORRECTION pp.~238-247
 
 	[Hominins] refer to people and our upright ancestors
 
@@ -157,7 +159,9 @@ Studying evolution
 
 ----------------------------------------------------------------------
 
-TSS Complex foraging | pp.~308--314
+TSS Complex foraging 
+
+	CORRECTION pp.~271--278
 
 	A key part of human evolution was shaped by [complex foraging]
 	strategies of our ancestors -- they relied on many types of food,
