@@ -724,7 +724,7 @@ Testing the theory of sexual selection
 
 ----------------------------------------------------------------------
 
-PSLIDE WIDEFIG webpix/pipefish.jpg
+PICSLIDE WIDEFIG webpix/pipefish.jpg
 
 ----------------------------------------------------------------------
 
@@ -755,11 +755,11 @@ Example: elephant seals
 
 ----------------------------------------------------------------------
 
-PSLIDE WIDEFIG webpix/seal_couple.jpg
+PICSLIDE WIDEFIG webpix/seal_couple.jpg
 
 ----------------------------------------------------------------------
 
-PSLIDE WIDEFIG webpix/seal_battle.jpg
+PICSLIDE WIDEFIG webpix/seal_battle.jpg
 
 ----------------------------------------------------------------------
 
