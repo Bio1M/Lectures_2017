@@ -101,6 +101,9 @@ homo.handouts.pdf: homo.txt
 homo.complete.pdf: homo.txt
 homo.outline.pdf: homo.txt
 
+## Patchwork of review stuff
+final.draft.pdf: final.txt
+
 ######################################################################
 
 ## Not used since importation
