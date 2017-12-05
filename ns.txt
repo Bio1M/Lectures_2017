@@ -417,6 +417,9 @@ Goal-directed evolution
 
 		Big-brained humans
 
+	ADD If the organism is moving toward a goal, it should move more or less in
+	that direction all the time
+
 ----------------------------------------------------------------------
 
 Evaluating competing hypotheses

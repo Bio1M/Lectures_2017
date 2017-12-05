@@ -647,6 +647,10 @@ Hox genes | Fig 27.21
 	Evidence that new hox genes were largely created by [gene
 	duplication] events
 
+		ADD A kind of mutation; random change
+
+		ADD If it persists, it was selected for
+
 ----------------------------------------------------------------------
 
 PICSLIDE WIDEFIG Pearson/F28_phylogeny/28_13_Hox_genes.jpg
