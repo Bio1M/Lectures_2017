@@ -22,6 +22,12 @@ include sub.mk
 
 ##################################################################
 
+## Local makefiles
+Sources += jd.local
+
+jd.lmk: jd.local
+%.lmk: $(CP) %.local local.mk
+
 ## Formatting
 ## Script is makestuff/newtalk/lect.pl
 ## Format rules are in makestuff/newtalk/txt.format _and_
