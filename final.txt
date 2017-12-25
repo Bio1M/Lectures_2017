@@ -1,17 +1,3 @@
-EXTRA
-
-4. Hox genes- Can these genes affect or cause mutations? 
-
-Chapter 27- Phylogeny and the history of life 
-
-1.The tree construction analysis example. (Hippos,Cows, and whales)
-2. Parsimony 
-2. Phylogenetic trees 
-- How do we know which are the sister taxa and the monophyletic groups when looking at a tree? 
-
-and also a brief review on the chapter - Apes and Hominins if possible. 
-
-----------------------------------------------------------------------
 
 Evaluating competing hypotheses
 
@@ -376,3 +362,20 @@ Hox genes | Fig 27.21
 PICSLIDE WIDEFIG Pearson/F28_phylogeny/28_13_Hox_genes.jpg
 
 ----------------------------------------------------------------------
+
+Looping 
+
+	How did we get so far?
+
+		Big brains, complex culture, technology, language
+
+	Probably many of the adaptations our ancestors had set the stage for new
+	adaptations
+
+		A lot of these would have ``looped'' through brain development
+
+		Bigger brains open the way for more culture, or language, or complex
+		foraging
+
+		These strategies could favor even bigger brains
+
