@@ -139,23 +139,20 @@ Sources += hb.lect
 ## Sort of between styles for making new images …
 
 ## Update location in local.mk if necessary
-image_links:
 webpix Pearson norton jdpix: 
 	/bin/ln -fs $(images)/$@ $@
 
-## Web images
-Sources += images
-webpix/%: webpix
-	cd images && $(MAKE) files/$*
+## Trickiness to be solved. These can't depend on the directories,
+## or else constantly remade
+## May need a separate rule eventually for the webpix one
+## (look at other webpix stuff?)
+webpix/% Pearson/% norton/% jdpix/%: 
+	$(MAKE) $(notdir $@)
 
-Pearson/%: Pearson
-	cd Pearson && $(MAKE) $*
-
-norton/%: norton
-	cd norton && $(MAKE) $*
-
-jdpix/%: jdpix
-	cd $< && $(MAKE) $*
+# Old webpix directory
+# Sources += images
+# webpix/%: webpix
+#	cd images && $(MAKE) files/$*
 
 ######################################################################
 
