@@ -139,7 +139,7 @@ Sources += hb.lect
 ## Sort of between styles for making new images …
 
 ## Update location in local.mk if necessary
-webpix Pearson norton jdpix: 
+webpix/ Pearson/ norton/ jdpix/: 
 	/bin/ln -fs $(images)/$@ $@
 
 ## Trickiness to be solved. These can't depend on the directories,
