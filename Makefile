@@ -28,7 +28,7 @@ Sources += local.txt.format
 ## Copyright notice
 Sources += copy.tex
 
-######################################################################
+#####################################################################
 
 ## Content
 ## Old content is called .lect.
