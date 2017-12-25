@@ -140,7 +140,7 @@ Sources += hb.lect
 
 ## Update location in local.mk if necessary
 webpix/ Pearson/ norton/ jdpix/: 
-	/bin/ln -fs $(images)/$@ $@
+	/bin/ln -fs $(images)/$@ .
 
 ## Trickiness to be solved. These can't depend on the directories,
 ## or else constantly remade
