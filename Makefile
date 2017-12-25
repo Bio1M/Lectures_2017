@@ -12,6 +12,8 @@ target: $(target)
 
 ##################################################################
 
+images = ~/Dropbox/1M
+
 Sources += Makefile .gitignore README.md sub.mk LICENSE.md
 include sub.mk
 -include $(ms)/newtalk.def
@@ -128,27 +130,23 @@ Sources += hb.lect
 ######################################################################
 
 ## Images
+## Sort of between styles for making new images …
+
+## Update location in local.mk if necessary
+image_links:
+webpix Pearson norton jdpix: 
+	/bin/ln -fs $(images)/$@ $@
 
 ## Web images
 Sources += images
 webpix/%: webpix
 	cd images && $(MAKE) files/$*
 
-webpix:
-	$(LNF) images/files $@
-
 Pearson/%: Pearson
 	cd Pearson && $(MAKE) $*
-Pearson:
-	/bin/ln -fs ~/Dropbox/courses/1M/Pearson
 
 norton/%: norton
 	cd norton && $(MAKE) $*
-norton:
-	/bin/ln -fs ~/Dropbox/courses/1M/norton
-
-jdpix: 
-	/bin/ln -fs ~/Dropbox/courses/1M/jdpix
 
 jdpix/%: jdpix
 	cd $< && $(MAKE) $*
