@@ -147,7 +147,7 @@ webpix Pearson norton jdpix:
 ## May need a separate rule eventually for the webpix one
 ## (look at other webpix stuff?)
 webpix/% Pearson/% norton/% jdpix/%: 
-	$(MAKE) $(notdir $@)
+	$(MAKE) $(dir $@)
 
 # Old webpix directory
 # Sources += images
