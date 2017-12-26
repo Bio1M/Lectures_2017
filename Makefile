@@ -188,7 +188,7 @@ exportdir: $(Sources)
 	-/bin/rm -rf $@
 	git clone `git remote get-url origin` $@
 	-cp target.mk $@
-	-$(CP) local.mk $*
+	-$(CP) local.mk $@
 
 %.dirmake: %
 	cd $< && $(MAKE) Makefile && $(MAKE) makestuff && $(MAKE) imagelinks && $(MAKE) && $(MAKE) vtarget
