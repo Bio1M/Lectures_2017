@@ -5,8 +5,8 @@ Sources += lecture.txt
 
 ######################################################################
 
-current: target
 target = Makefile
+-include testdir.mk
 -include target.mk
 target: $(target)
 
@@ -26,7 +26,8 @@ include sub.mk
 Sources += jd.local
 
 jd.lmk: jd.local
-%.lmk: $(CP) %.local local.mk
+%.lmk:
+	$(CP) $*.local local.mk
 
 ## Formatting
 ## Script is makestuff/newtalk/lect.pl

@@ -1,6 +1,7 @@
 commit.time
 commit.default
 target.mk
+testdir.mk
 .*.sw*
 
 webpix
