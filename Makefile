@@ -12,7 +12,7 @@ target: $(target)
 
 ##################################################################
 
-images = ~/Dropbox/1M
+imagelinks = ~/Dropbox/1M
 
 Sources += Makefile .gitignore README.md sub.mk LICENSE.md
 include sub.mk
@@ -142,7 +142,7 @@ imagelinks: webpix/ Pearson/ norton/ jdpix/
 
 ## Update location in local.mk if necessary
 webpix/ Pearson/ norton/ jdpix/: 
-	/bin/ln -fs $(images)/$@ .
+	ls $(images)/$@/ > /dev/null && /bin/ln -fs $(imagelinks)/$@ .
 
 ## Trickiness to be solved. These can't depend on the directories,
 ## or else constantly remade
