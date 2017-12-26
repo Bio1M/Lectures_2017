@@ -175,5 +175,5 @@ pushdir = Bio1M.github.io/materials/
 -include $(ms)/visual.mk
 
 -include $(ms)/newtalk.mk
--include $(ms)/newlatex.mk
+-include $(ms)/talktex.mk
 
