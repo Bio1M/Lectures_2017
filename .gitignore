@@ -41,6 +41,8 @@ talkdir
 txt.format
 
 dotdir/
+clonedir/
+exportdir/
 
 Pearson
 norton

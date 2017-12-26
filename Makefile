@@ -12,13 +12,21 @@ target: $(target)
 
 ##################################################################
 
+images = ~/Dropbox/1M
+
 Sources += Makefile .gitignore README.md sub.mk LICENSE.md
 include sub.mk
+-include $(ms)/perl.def
 -include $(ms)/newtalk.def
-
 -include $(ms)/repos.def
 
 ##################################################################
+
+## Local makefiles
+Sources += jd.local
+
+jd.lmk: jd.local
+%.lmk: $(CP) %.local local.mk
 
 ## Formatting
 ## Script is makestuff/newtalk/lect.pl
@@ -28,7 +36,7 @@ Sources += local.txt.format
 ## Copyright notice
 Sources += copy.tex
 
-######################################################################
+#####################################################################
 
 ## Content
 ## Old content is called .lect.
@@ -128,30 +136,25 @@ Sources += hb.lect
 ######################################################################
 
 ## Images
+## Sort of between styles for making new images …
 
-## Web images
-Sources += images
-webpix/%: webpix
-	cd images && $(MAKE) files/$*
+imagelinks: webpix/ Pearson/ norton/ jdpix/
 
-webpix:
-	$(LNF) images/files $@
+## Update location in local.mk if necessary
+webpix/ Pearson/ norton/ jdpix/: 
+	/bin/ln -fs $(images)/$@ .
 
-Pearson/%: Pearson
-	cd Pearson && $(MAKE) $*
-Pearson:
-	/bin/ln -fs ~/Dropbox/courses/1M/Pearson
+## Trickiness to be solved. These can't depend on the directories,
+## or else constantly remade
+## May need a separate rule eventually for the webpix one
+## (look at other webpix stuff?)
+webpix/% Pearson/% norton/% jdpix/%: 
+	$(MAKE) $(dir $@)
 
-norton/%: norton
-	cd norton && $(MAKE) $*
-norton:
-	/bin/ln -fs ~/Dropbox/courses/1M/norton
-
-jdpix: 
-	/bin/ln -fs ~/Dropbox/courses/1M/jdpix
-
-jdpix/%: jdpix
-	cd $< && $(MAKE) $*
+# Old webpix directory
+# Sources += images
+# webpix/%: webpix
+#	cd images && $(MAKE) files/$*
 
 ######################################################################
 
@@ -174,5 +177,18 @@ pushdir = Bio1M.github.io/materials/
 -include $(ms)/visual.mk
 
 -include $(ms)/newtalk.mk
--include $(ms)/newlatex.mk
+-include $(ms)/talktex.mk
 
+######################################################################
+
+## Testing only
+
+exportdir: $(Sources)
+	$(MAKE) push
+	-/bin/rm -rf $@
+	git clone `git remote get-url origin` $@
+	-cp target.mk $@
+	-$(CP) local.mk $@
+
+%.dirmake: %
+	cd $< && $(MAKE) Makefile && $(MAKE) makestuff && $(MAKE) imagelinks && $(MAKE) && $(MAKE) vtarget
