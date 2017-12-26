@@ -142,7 +142,7 @@ imagelinks: webpix/ Pearson/ norton/ jdpix/
 
 ## Update location in local.mk if necessary
 webpix/ Pearson/ norton/ jdpix/: 
-	ls $(images)/$@/ > /dev/null && /bin/ln -fs $(imagelinks)/$@ .
+	ls $(imagelinks)/$@/ > /dev/null && /bin/ln -fs $(imagelinks)/$@ .
 
 ## Trickiness to be solved. These can't depend on the directories,
 ## or else constantly remade
