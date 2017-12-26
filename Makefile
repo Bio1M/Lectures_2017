@@ -193,4 +193,3 @@ exportdir: $(Sources)
 
 %.dirmake: %
 	cd $< && $(MAKE) Makefile && $(MAKE) makestuff && $(MAKE) imagelinks && $(MAKE) && $(MAKE) vtarget
-
