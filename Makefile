@@ -138,6 +138,8 @@ Sources += hb.lect
 ## Images
 ## Sort of between styles for making new images …
 
+imagelinks: webpix/ Pearson/ norton/ jdpix/
+
 ## Update location in local.mk if necessary
 webpix/ Pearson/ norton/ jdpix/: 
 	/bin/ln -fs $(images)/$@ .
@@ -177,3 +179,16 @@ pushdir = Bio1M.github.io/materials/
 -include $(ms)/newtalk.mk
 -include $(ms)/talktex.mk
 
+######################################################################
+
+## Testing only
+
+exportdir: $(Sources)
+	$(MAKE) push
+	-/bin/rm -rf $@
+	git clone `git remote get-url origin` $@
+	-cp target.mk $@
+	-$(CP) local.mk $*
+
+%.dirmake: %
+	cd $< && $(MAKE) Makefile && $(MAKE) makestuff && $(MAKE) imagelinks && $(MAKE) && $(MAKE) vtarget
